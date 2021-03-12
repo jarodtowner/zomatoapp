@@ -7,7 +7,10 @@ function App() {
     <div className="App">
         <div className="filters"></div>
         <div className="results"></div>
-        <Restaurant name="Some Restaurant" />
+        <Restaurant
+          name="Some Restaurant"
+          address="1 Some Street, Adelaide"
+        />
     </div>
   );
 }
