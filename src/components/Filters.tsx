@@ -1,5 +1,6 @@
 import React from 'react';
 import Checkbox from './Checkbox';
+import './Filters.css';
 
 interface FiltersProps {
   filters: string[];
@@ -17,10 +18,10 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
 
   constructor(props: FiltersProps) {
     super(props);
-    this.filterToggle = this.filterToggle.bind(this);
+    this.handleToggle = this.handleToggle.bind(this);
   }
 
-  filterToggle(label: string, value: boolean): void {
+  handleToggle(label: string, value: boolean): void {
     let active: string[] = JSON.parse(JSON.stringify(this.state.activeFilters));
     if (value) {
       active.push(label);
@@ -34,7 +35,7 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
 
     const items: JSX.Element[] = [];
     for (const filter of this.props.filters) {
-      items.push(<Checkbox onToggle={this.filterToggle} id={filter} label={filter}></Checkbox>);
+      items.push(<Checkbox onToggle={this.handleToggle} id={filter} label={filter}></Checkbox>);
     }
 
     return (
