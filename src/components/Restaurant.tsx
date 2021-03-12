@@ -1,13 +1,14 @@
 import * as React from 'react';
 import './Restaurant.css';
 
-class Restaurant extends React.Component<{ name: string; }> {
-
+interface RestaurantProps {
   name: string;
+}
 
-  constructor(props: { name: string }) {
+class Restaurant extends React.Component<RestaurantProps> {
+
+  constructor(props: RestaurantProps) {
     super(props);
-    this.name = props.name;
   }
 
   render() {

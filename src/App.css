@@ -1,11 +1,42 @@
+:root {
+  --accent: #4fbebf;
+  --text: #373737;
+  --background: #e5e5e6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 800px) {
+  .App {
+    grid-template-areas: 'filters filters' 'results restaurant';
+    grid-template-columns: 3fr 10fr;
+    grid-template-rows: 160px calc(100vh - 160px);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .App {
+    grid-template-areas: 'restaurant';
+    /* grid-template-columns: 3fr 10fr; */
+    /* grid-template-rows: 160px calc(100vh - 160px); */
+  }
+
+  .filters {
+    position: absolute; 
+  }
+
+  .results {
+    position: absolute; 
+  }
+}
+
 .App {
   height: 100vh;
   width: 100vw;
   display: grid;
-  grid-template-areas: 'filters filters' 'results restaurant';
-  grid-template-columns: 3fr 8fr;
-  grid-template-rows: 1fr 4fr;
-}  
+} 
 
 .filters {
   background-color: white;
@@ -13,12 +44,14 @@
 }
 
 .results {
-  background-color: #e0e0e0;
+  background-color: var(--background);
+  overflow-Y: auto;
   grid-area: results;
+  min-width: 300px;
 }
 
 
 .restaurant {
-  background-color: #eee;
+  background-color: #f1f1f2;
   grid-area: restaurant;
 }
