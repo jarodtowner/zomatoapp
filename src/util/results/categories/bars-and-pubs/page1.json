@@ -1,0 +1,2112 @@
+{
+  "results_found": 4264,
+  "results_start": 0,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588043,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588043",
+        "name": "Argo on the Parade",
+        "url": "https:\/\/www.zomato.com\/adelaide\/argo-on-the-parade-norwood?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "212 The Parade, Norwood",
+          "locality": "The Parade, Norwood",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9212583333",
+          "longitude": "138.6376944444",
+          "zipcode": "5067",
+          "country_id": 14,
+          "locality_verbose": "The Parade, Norwood, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Healthy Food, Vegetarian, Coffee and Tea, Cafe Food",
+        "timings": "6 AM to 5 PM (Mon-Fri),6:30 AM to 5 PM (Sat),7 AM to 5 PM (Sun)",
+        "average_cost_for_two": 50,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Delivery",
+          "No Alcohol Available",
+          "Lunch",
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "Live Music",
+          "Outdoor Seating",
+          "Kid Friendly",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Indoor Seating",
+          "Wifi",
+          "Vegan Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588043_RESTAURANT_adaf2fe7858436cf78b3538e67483d1e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.3"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 636
+        },
+        "all_reviews_count": 250,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/argo-on-the-parade-norwood\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 354,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/argo-on-the-parade-norwood\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588043_RESTAURANT_adaf2fe7858436cf78b3538e67483d1e.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588043",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/argo-on-the-parade-norwood\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8431 1387",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587245,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587245",
+        "name": "Wasai Japanese Kitchen",
+        "url": "https:\/\/www.zomato.com\/adelaide\/wasai-japanese-kitchen-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "15 Field Street, Adelaide",
+          "locality": "Field Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9308757855",
+          "longitude": "138.5961227864",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Field Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Japanese",
+        "timings": "Closed (Mon, Sun), 5:30 PM to 10 PM (Tue-Sat)",
+        "average_cost_for_two": 70,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Takeaway Available",
+          "Dinner",
+          "Fullbar",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587245_RESTAURANT_ddee046dd352ca5be7947df5a1dae692_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 917
+        },
+        "all_reviews_count": 253,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/wasai-japanese-kitchen-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 225,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/wasai-japanese-kitchen-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587245_RESTAURANT_ddee046dd352ca5be7947df5a1dae692_c.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587245",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/wasai-japanese-kitchen-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8221 6606",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587626,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587626",
+        "name": "Mandoo",
+        "url": "https:\/\/www.zomato.com\/adelaide\/mandoo-1-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "3\/26 Bank Street, Adelaide, SA",
+          "locality": "Bank Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9225175430",
+          "longitude": "138.5974917188",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Bank Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Korean, Dumplings",
+        "timings": "11:30 AM to 2:30 PM, 5 PM to 8:30 PM (Mon-Sat), Sun Closed",
+        "average_cost_for_two": 45,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Cash",
+          "Credit Card",
+          "Lunch",
+          "Takeaway Available",
+          "Debit Card",
+          "Indoor Seating",
+          "Vegan Options",
+          "Table Reservation Not Required",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/739\/1917a9620e06defedf5991a202f68739_1518847200.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.8",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.8"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 766
+        },
+        "all_reviews_count": 292,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/mandoo-1-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 217,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/mandoo-1-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/739\/1917a9620e06defedf5991a202f68739_1518847200.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587626",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/mandoo-1-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8231 3303",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18938968,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "18938968",
+        "name": "Fun Tea",
+        "url": "https:\/\/www.zomato.com\/adelaide\/fun-tea-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "6-10 York Street, Adelaide, SA",
+          "locality": "City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9228630000",
+          "longitude": "138.6057770000",
+          "zipcode": "",
+          "country_id": 14,
+          "locality_verbose": "City Centre"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Beverages, Bubble Tea",
+        "timings": "11 AM to 7:30 PM (Mon-Wed, Fri-Sun), 11 AM to 9 PM (Thu)",
+        "average_cost_for_two": 0,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Credit Card",
+          "Takeaway Available",
+          "Debit Card",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/18938968\/142df5dfa7dca81218e03a826fc82f1b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "2.0",
+          "rating_text": "Poor",
+          "rating_color": "FF7800",
+          "rating_obj": {
+            "title": {
+              "text": "2.0"
+            },
+            "bg_color": {
+              "type": "red",
+              "tint": "500"
+            }
+          },
+          "votes": 189
+        },
+        "all_reviews_count": 118,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/fun-tea-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 4,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/fun-tea-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/18938968\/142df5dfa7dca81218e03a826fc82f1b.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18938968",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/fun-tea-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "Not available for this place",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Beverage Shop"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589382,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589382",
+        "name": "Bread & Bone Wood Grill",
+        "url": "https:\/\/www.zomato.com\/adelaide\/bread-bone-wood-grill-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "15 Peel Street, Adelaide",
+          "locality": "Peel Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9235027778",
+          "longitude": "138.5981305556",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Peel Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "American, Bar Food",
+        "timings": "11:30 AM to 10 PM (Mon, Tue, Wed, Sun), 11:30 AM to 11 PM (Thu-Sat)",
+        "average_cost_for_two": 75,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Lunch",
+          "Dinner",
+          "Gluten Free Options",
+          "Nightlife",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589382_RESTAURANT_8d7735e5f3a11707abed6348b6e1b2ca_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 597
+        },
+        "all_reviews_count": 234,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/bread-bone-wood-grill-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 192,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/bread-bone-wood-grill-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589382_RESTAURANT_8d7735e5f3a11707abed6348b6e1b2ca_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589382",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/bread-bone-wood-grill-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8231 8535",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bar"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16586858,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16586858",
+        "name": "Chianti",
+        "url": "https:\/\/www.zomato.com\/adelaide\/chianti-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "160 Hutt Street, Adelaide",
+          "locality": "Hutt Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9307777778",
+          "longitude": "138.6123972222",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Hutt Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Italian",
+        "timings": "7:30 AM to 11:45 PM (Mon-Fri),8 AM to 11:45 PM (Sat-Sun)",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Breakfast",
+          "Lunch",
+          "Credit Card",
+          "Dinner",
+          "Indoor Seating",
+          "Outdoor Seating",
+          "Vegetarian Friendly",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586858_RESTAURANT_4c7f2fd1757d62c10d61c9c97070488e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 813
+        },
+        "all_reviews_count": 229,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/chianti-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 240,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/chianti-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586858_RESTAURANT_4c7f2fd1757d62c10d61c9c97070488e.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16586858",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/chianti-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8232 7955",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18050804,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "18050804",
+        "name": "Osteria Oggi",
+        "url": "https:\/\/www.zomato.com\/adelaide\/osteria-oggi-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "76 Pirie Street, City Centre, Adelaide",
+          "locality": "Pirie Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9257500000",
+          "longitude": "138.6025555556",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Pirie Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "European, Italian",
+        "timings": "11:30 AM to 10 PM",
+        "average_cost_for_two": 95,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Takeaway Available",
+          "Credit Card",
+          "Dinner",
+          "Fullbar",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18050804_RESTAURANT_ad5b0a5b3e3507e80b84f293a0c9dcaf_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.2"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 263
+        },
+        "all_reviews_count": 124,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/osteria-oggi-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 238,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/osteria-oggi-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18050804_RESTAURANT_ad5b0a5b3e3507e80b84f293a0c9dcaf_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18050804",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/osteria-oggi-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8359 2525",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16586759,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16586759",
+        "name": "Amalfi Pizzeria Ristorante",
+        "url": "https:\/\/www.zomato.com\/adelaide\/amalfi-pizzeria-ristorante-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "29 Frome Street, Adelaide, City Centre, Adelaide",
+          "locality": "Rundle Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9223314342",
+          "longitude": "138.6079905555",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Rundle Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Italian, Pizza",
+        "timings": "11:30 AM to 2:30 PM, 5:30 PM to 12 Midnight (Mon-Fri),5:30 PM to 12 Midnight (Sat),Closed (Sun)",
+        "average_cost_for_two": 85,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Lunch",
+          "Credit Card",
+          "Cash",
+          "Outdoor Seating",
+          "Fullbar",
+          "Vegan Options",
+          "Vegetarian Friendly",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586759_RESTAURANT_1b8b6a00ea7cd61db487d53056d24dc7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 964
+        },
+        "all_reviews_count": 264,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/amalfi-pizzeria-ristorante-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 152,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/amalfi-pizzeria-ristorante-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586759_RESTAURANT_1b8b6a00ea7cd61db487d53056d24dc7.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16586759",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/amalfi-pizzeria-ristorante-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8223 1948",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588155,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588155",
+        "name": "Lucky Lupitas",
+        "url": "https:\/\/www.zomato.com\/adelaide\/lucky-lupitas-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 1\/163 O'Connell Street, North Adelaide, Adelaide",
+          "locality": "O'connell Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9039084214",
+          "longitude": "138.5950995237",
+          "zipcode": "5042",
+          "country_id": 14,
+          "locality_verbose": "O'connell Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Latin American, Mexican",
+        "timings": "5:30PM to 9PM (Mon-Wed),12Noon to 2PM, 5:30PM to 9PM (Thu, Sun), 12Noon to 2PM, 5:30PM to 10PM (Fri),5PM to 10PM (Sat)",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Dinner",
+          "Indoor Seating",
+          "Vegan Options",
+          "Fullbar",
+          "Outdoor Seating",
+          "Gluten Free Options",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588155_RESTAURANT_550f29c763e8eadf7bbc9cc18bb1e320_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 762
+        },
+        "all_reviews_count": 246,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/lucky-lupitas-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 178,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/lucky-lupitas-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588155_RESTAURANT_550f29c763e8eadf7bbc9cc18bb1e320_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588155",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/lucky-lupitas-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8267 3082",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587995,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587995",
+        "name": "Press Food and Wine",
+        "url": "https:\/\/www.zomato.com\/adelaide\/press-food-and-wine-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "40 Waymouth Street, Adelaide",
+          "locality": "Waymouth Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9259493470",
+          "longitude": "138.5982229561",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Waymouth Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Modern Australian",
+        "timings": "12 Noon to 12 Midnight (Mon-Sat),Closed (Sun)",
+        "average_cost_for_two": 130,
+        "price_range": 4,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Credit Card",
+          "Dinner",
+          "Live Music",
+          "Outdoor Seating",
+          "Smoking Area",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegan Options",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587995_RESTAURANT_dceace92769192b560b9319582977b96.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 699
+        },
+        "all_reviews_count": 248,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/press-food-and-wine-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 222,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/press-food-and-wine-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587995_RESTAURANT_dceace92769192b560b9319582977b96.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587995",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/press-food-and-wine-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8211 8048",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587567,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587567",
+        "name": "Nghi Ngan Quan (NNQ)",
+        "url": "https:\/\/www.zomato.com\/adelaide\/nghi-ngan-quan-nnq-woodville?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "65 Woodville Road, Woodville, Adelaide",
+          "locality": "Woodville Road, Woodville",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.8782700000",
+          "longitude": "138.5370570000",
+          "zipcode": "5011",
+          "country_id": 14,
+          "locality_verbose": "Woodville Road, Woodville, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Vietnamese",
+        "timings": "10 AM to 9 PM (Mon, Wed, Thu, Fri, Sat, Sun), Closed (Tue)",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Credit Card",
+          "Dinner",
+          "Takeaway Available",
+          "Outdoor Seating",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Kid Friendly",
+          "Indoor Seating",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587567_RESTAURANT_54bef0a4b8011e4cd0151e257288c6b3_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 737
+        },
+        "all_reviews_count": 258,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/nghi-ngan-quan-nnq-woodville\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 225,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/nghi-ngan-quan-nnq-woodville\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587567_RESTAURANT_54bef0a4b8011e4cd0151e257288c6b3_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587567",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/nghi-ngan-quan-nnq-woodville\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8244 6003",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588445,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588445",
+        "name": "Ruby Red Flamingo",
+        "url": "https:\/\/www.zomato.com\/adelaide\/ruby-red-flamingo-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "142 Tynte Street, North Adelaide, Adelaide",
+          "locality": "Tynte Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9061083333",
+          "longitude": "138.5948194444",
+          "zipcode": "5006",
+          "country_id": 14,
+          "locality_verbose": "Tynte Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Italian",
+        "timings": "Closed (Mon, Tue, Sun), 12 Noon to 2:30 PM, 5:30 PM to 11:30 PM (Wed-Fri),5:30 PM to 11 PM (Sat)",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Lunch",
+          "Outdoor Seating",
+          "Gluten Free Options",
+          "Fullbar",
+          "Kid Friendly",
+          "Wifi",
+          "Vegetarian Friendly",
+          "BYO"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588445_RESTAURANT_edc75c6d547005ac1856576dc1dcbc22_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 575
+        },
+        "all_reviews_count": 216,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/ruby-red-flamingo-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 219,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/ruby-red-flamingo-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588445_RESTAURANT_edc75c6d547005ac1856576dc1dcbc22_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588445",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/ruby-red-flamingo-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8267 5769",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587463,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587463",
+        "name": "Parwana Afghan Restaurant",
+        "url": "https:\/\/www.zomato.com\/adelaide\/parwana-afghan-restaurant-torrensville?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "124b Henley Beach Road, Torrensville, Adelaide",
+          "locality": "Henley Beach Road, Torrensville",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9237361111",
+          "longitude": "138.5674583333",
+          "zipcode": "5031",
+          "country_id": 14,
+          "locality_verbose": "Henley Beach Road, Torrensville, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Middle Eastern, Afghan",
+        "timings": "Closed (Mon),6 PM to 10 PM (Tue-Sun)",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Indoor Seating",
+          "Gluten Free Options",
+          "BYO",
+          "Kid Friendly",
+          "Vegan Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587463_RESTAURANT_9791c62bcf0a198000518385be98ab5d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.8",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.8"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 611
+        },
+        "all_reviews_count": 190,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/parwana-afghan-restaurant-torrensville\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 94,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/parwana-afghan-restaurant-torrensville\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587463_RESTAURANT_9791c62bcf0a198000518385be98ab5d.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587463",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/parwana-afghan-restaurant-torrensville\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8443 9001",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588873,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588873",
+        "name": "Peel St",
+        "url": "https:\/\/www.zomato.com\/adelaide\/peel-st-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "9 Peel Street, City Centre, Adelaide",
+          "locality": "Peel Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9233805556",
+          "longitude": "138.5979472222",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Peel Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Middle Eastern, Modern Australian",
+        "timings": "7:30 AM to 5 PM (Mon-Tue),7:30 AM to 11 PM (Wed-Fri),6 PM to 11 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 110,
+        "price_range": 4,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Breakfast",
+          "Lunch",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly",
+          "Fullbar",
+          "Outdoor Seating",
+          "Gluten Free Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588873_RESTAURANT_5da4f9d595c057645e26c74aee4e5007.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.9",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 394
+        },
+        "all_reviews_count": 158,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/peel-st-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 143,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/peel-st-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588873_RESTAURANT_5da4f9d595c057645e26c74aee4e5007.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588873",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/peel-st-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8231 8887",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587474,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587474",
+        "name": "Eggless",
+        "url": "https:\/\/www.zomato.com\/adelaide\/eggless-goodwood?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "162 Goodwood Road, Goodwood, Adelaide",
+          "locality": "Goodwood Road, Goodwood",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9531027778",
+          "longitude": "138.5896138889",
+          "zipcode": "5034",
+          "country_id": 14,
+          "locality_verbose": "Goodwood Road, Goodwood, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Desserts, Coffee and Tea, Cafe Food",
+        "timings": "Closed (Mon-Tue),8 PM to 11 PM (Wed-Thu),8 PM to 12 Midnight (Fri-Sat),7:30 PM to 11 PM (Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "No Alcohol Available",
+          "Credit Card",
+          "Takeaway Available",
+          "Dinner",
+          "Indoor Seating",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Vegan Options",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587474_RESTAURANT_edd07ab304510e819947c6c05ed7a4e8_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 633
+        },
+        "all_reviews_count": 186,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/eggless-goodwood\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 243,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/eggless-goodwood\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587474_RESTAURANT_edd07ab304510e819947c6c05ed7a4e8_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587474",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/eggless-goodwood\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8272 0777",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Dessert Parlour"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588961,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588961",
+        "name": "Golden Boy",
+        "url": "https:\/\/www.zomato.com\/adelaide\/golden-boy-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "309 North Terrace, Adelaide",
+          "locality": "East Terrace, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9211055556",
+          "longitude": "138.6103833333",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "East Terrace, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Thai",
+        "timings": "Closed (Mon, Sun), 6 PM to 10:30 PM (Tue, Wed, Thu, Sat), 12 Noon to 10:30 PM (Fri)",
+        "average_cost_for_two": 96,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Smoking Area",
+          "Outdoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588961_RESTAURANT_997459e555e47042dc6835dcb494c5f0.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 456
+        },
+        "all_reviews_count": 193,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/golden-boy-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 194,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/golden-boy-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588961_RESTAURANT_997459e555e47042dc6835dcb494c5f0.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588961",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/golden-boy-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8227 0799",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588409,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588409",
+        "name": "The Loose Caboose",
+        "url": "https:\/\/www.zomato.com\/adelaide\/the-loose-caboose-hindmarsh?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "21, 1st Street, Hindmarsh, Adelaide",
+          "locality": "First Street, Hindmarsh",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9061730000",
+          "longitude": "138.5754960000",
+          "zipcode": "5007",
+          "country_id": 14,
+          "locality_verbose": "First Street, Hindmarsh, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Coffee and Tea, Cafe Food",
+        "timings": "7 AM to 4 PM (Mon-Fri),8 AM to 4 PM (Sat-Sun)",
+        "average_cost_for_two": 45,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "No Alcohol Available",
+          "Credit Card",
+          "Breakfast",
+          "Lunch",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Gluten Free Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588409_RESTAURANT_949d9aa150c5a285f1f90cac08ea27de_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 610
+        },
+        "all_reviews_count": 228,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/the-loose-caboose-hindmarsh\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 197,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/the-loose-caboose-hindmarsh\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588409_RESTAURANT_949d9aa150c5a285f1f90cac08ea27de_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588409",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/the-loose-caboose-hindmarsh\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8340 0809",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588871,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588871",
+        "name": "Mister Sunshine's",
+        "url": "https:\/\/www.zomato.com\/adelaide\/mister-sunshines-thebarton?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "32 George Street, Thebarton",
+          "locality": "George Street, Thebarton",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9187250000",
+          "longitude": "138.5762638889",
+          "zipcode": "5031",
+          "country_id": 14,
+          "locality_verbose": "George Street, Thebarton, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Vegetarian, Coffee and Tea, Cafe Food",
+        "timings": "7:30 AM to 3:30 PM (Mon-Fri),8 AM to 3 PM (Sat-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "Lunch",
+          "Credit Card",
+          "No Alcohol Available",
+          "Indoor Seating",
+          "Vegan Options",
+          "Outdoor Seating",
+          "Wheelchair Accessible",
+          "Gluten Free Options",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588871_RESTAURANT_ed317727fb9c711fbdce7f24ab1242b4_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.3"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 293
+        },
+        "all_reviews_count": 134,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/mister-sunshines-thebarton\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 174,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/mister-sunshines-thebarton\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588871_RESTAURANT_ed317727fb9c711fbdce7f24ab1242b4_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588871",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/mister-sunshines-thebarton\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8443 5125",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587955,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587955",
+        "name": "UR Caffe",
+        "url": "https:\/\/www.zomato.com\/adelaide\/ur-caffe-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "117 Melbourne Street, North Adelaide",
+          "locality": "Melbourne Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9071055556",
+          "longitude": "138.6073750000",
+          "zipcode": "5006",
+          "country_id": 14,
+          "locality_verbose": "Melbourne Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Coffee and Tea, Cafe Food",
+        "timings": "7:30 AM to 3:30 PM (Mon-Fri),8 AM to 3:30 PM (Sat-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "No Alcohol Available",
+          "Credit Card",
+          "Breakfast",
+          "Lunch",
+          "Indoor Seating",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Wifi",
+          "Dairy Free",
+          "Vegan Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587955_RESTAURANT_0e58d33e65405325c89d5d1a4f6e3215.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.5"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 397
+        },
+        "all_reviews_count": 144,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/ur-caffe-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 187,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/ur-caffe-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587955_RESTAURANT_0e58d33e65405325c89d5d1a4f6e3215.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587955",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/ur-caffe-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0432 276 897, (08) 8267 3553",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587746,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587746",
+        "name": "Steven ter Horst Chocolatier",
+        "url": "https:\/\/www.zomato.com\/adelaide\/steven-ter-horst-chocolatier-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "256 Rundle Street, City Centre, Adelaide",
+          "locality": "City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9220829219",
+          "longitude": "138.6080254242",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "City Centre"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Desserts",
+        "timings": "10 AM to 11 PM (Mon-Thu),10 AM to 12 Midnight (Fri-Sat),12 Noon to 11 PM (Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "No Alcohol Available",
+          "Wheelchair Accessible",
+          "Desserts and Bakes",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587746_RESTAURANT_9673482ec4149a7cd11fcd3ad5cb56c1.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 450
+        },
+        "all_reviews_count": 150,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/steven-ter-horst-chocolatier-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 192,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/steven-ter-horst-chocolatier-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587746_RESTAURANT_9673482ec4149a7cd11fcd3ad5cb56c1.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587746",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/steven-ter-horst-chocolatier-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 7226 6216",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Dessert Parlour"
+        ],
+        "establishment_types": []
+      }
+    }
+  ]
+}

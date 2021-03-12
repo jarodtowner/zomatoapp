@@ -1,0 +1,2146 @@
+{
+  "results_found": 463,
+  "results_start": 0,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587066,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587066",
+        "name": "Muratti Cakes",
+        "url": "https:\/\/www.zomato.com\/adelaide\/muratti-cakes-prospect?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "114-114b Prospect Road, Prospect, Prospect, Adelaide",
+          "locality": "Prospect Road, Prospect",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.8871638889",
+          "longitude": "138.5939944444",
+          "zipcode": "5082",
+          "country_id": 14,
+          "locality_verbose": "Prospect Road, Prospect, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Patisserie",
+        "timings": "7:30 AM to 6 PM (Mon-Fri),7:30 AM to 4 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Delivery",
+          "Breakfast",
+          "No Alcohol Available",
+          "Takeaway Available",
+          "Lunch",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Gluten Free Options",
+          "Outdoor Seating",
+          "Wifi",
+          "Vegetarian Friendly",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587066_RESTAURANT_383cdc1857c641a8a7b6afb5d6fd30da_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.9",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "800"
+            }
+          },
+          "votes": 297
+        },
+        "all_reviews_count": 90,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/muratti-cakes-prospect\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 117,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/muratti-cakes-prospect\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587066_RESTAURANT_383cdc1857c641a8a7b6afb5d6fd30da_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587066",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/muratti-cakes-prospect\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8344 9977",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18050800,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "18050800",
+        "name": "Abbots and Kinney",
+        "url": "https:\/\/www.zomato.com\/adelaide\/abbots-and-kinney-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "78 Pirie Street, Adelaide, City Centre, Adelaide",
+          "locality": "Pirie Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9256227765",
+          "longitude": "138.6025577411",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Pirie Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe Food, Coffee and Tea, Bakery",
+        "timings": "7 AM to 3 PM (Mon-Fri), 8 AM to 1:30 PM (Sat), Sun Closed",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Credit Card",
+          "No Alcohol Available",
+          "Indoor Seating",
+          "Desserts and Bakes",
+          "Outdoor Seating",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18050800_RESTAURANT_662587530a4215224801c9ac83b90292_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 90
+        },
+        "all_reviews_count": 37,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/abbots-and-kinney-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 129,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/abbots-and-kinney-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18050800_RESTAURANT_662587530a4215224801c9ac83b90292_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18050800",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/abbots-and-kinney-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0412 550 336",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18235651,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "18235651",
+        "name": "Jamface by Poh",
+        "url": "https:\/\/www.zomato.com\/adelaide\/jamface-by-poh-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Stall 28-29, Adelaide Central Markets, Adelaide",
+          "locality": "City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "34.9295326000",
+          "longitude": "138.5951123000",
+          "zipcode": "",
+          "country_id": 14,
+          "locality_verbose": "City Centre"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "Closed (Mon, Wed, Sun), 7 AM to 5:30 PM (Tue, Thu), 7 AM to 9 PM (Fri),7 AM to 3 PM (Sat)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "No Alcohol Available",
+          "Credit Card",
+          "Kid Friendly",
+          "Gluten Free Options",
+          "Desserts and Bakes",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18235651_RESTAURANT_dc9880f5bfe7ac634e3a9ed6c3e050f6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.0"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 97
+        },
+        "all_reviews_count": 63,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/jamface-by-poh-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 153,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/jamface-by-poh-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18235651_RESTAURANT_dc9880f5bfe7ac634e3a9ed6c3e050f6.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18235651",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/jamface-by-poh-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0433 815 137",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588602,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588602",
+        "name": "Bakery on O'Connell",
+        "url": "https:\/\/www.zomato.com\/adelaide\/bakery-on-oconnell-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "128 O'Connell Street, North Adelaide",
+          "locality": "O'connell Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9050100000",
+          "longitude": "138.5958740000",
+          "zipcode": "5006",
+          "country_id": 14,
+          "locality_verbose": "O'connell Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "24 Hours (Mon-Sun)",
+        "average_cost_for_two": 20,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Breakfast",
+          "No Alcohol Available",
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Indoor Seating",
+          "Wifi",
+          "Vegan Options",
+          "Outdoor Seating",
+          "Kid Friendly",
+          "Vegetarian Friendly",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588602_RESTAURANT_de16be1a5c9785cb3e344b003d52e3bd.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 186
+        },
+        "all_reviews_count": 74,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/bakery-on-oconnell-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 103,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/bakery-on-oconnell-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588602_RESTAURANT_de16be1a5c9785cb3e344b003d52e3bd.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588602",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/bakery-on-oconnell-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8361 7377",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589545,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589545",
+        "name": "Market St",
+        "url": "https:\/\/www.zomato.com\/adelaide\/market-st-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "11 Market Street, Adelaide",
+          "locality": "Market Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9307144000",
+          "longitude": "138.5973817000",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Market Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "7 AM to 4 PM (Mon-Fri),7 AM to 3 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Credit Card",
+          "Breakfast",
+          "No Alcohol Available",
+          "Desserts and Bakes",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589545_RESTAURANT_e711e372706f4515eaf2177816c12631.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.2"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 77
+        },
+        "all_reviews_count": 31,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/market-st-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 67,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/market-st-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589545_RESTAURANT_e711e372706f4515eaf2177816c12631.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589545",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/market-st-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8231 5014",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589346,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589346",
+        "name": "Cherry Darlings Bakehouse",
+        "url": "https:\/\/www.zomato.com\/adelaide\/cherry-darlings-bakehouse-forestville?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "5 Aroha Terrace, Forestville",
+          "locality": "Aroha Terrace, Forestville",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9543810000",
+          "longitude": "138.5811940000",
+          "zipcode": "5035",
+          "country_id": 14,
+          "locality_verbose": "Aroha Terrace, Forestville, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Desserts",
+        "timings": "Closed (Mon, Sun), 9:30 AM to 5 PM (Tue-Sat)",
+        "average_cost_for_two": 25,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Cash",
+          "No Alcohol Available",
+          "Takeaway Available",
+          "Gluten Free Options",
+          "Desserts and Bakes",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegan Options",
+          "Outdoor Seating",
+          "Kid Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589346_RESTAURANT_cb76f7445ea6a573ffacadea92af101e.JPG?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 90
+        },
+        "all_reviews_count": 50,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/cherry-darlings-bakehouse-forestville\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 114,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/cherry-darlings-bakehouse-forestville\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589346_RESTAURANT_cb76f7445ea6a573ffacadea92af101e.JPG",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589346",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/cherry-darlings-bakehouse-forestville\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0413 902 290",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588764,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588764",
+        "name": "Jenny's Gourmet Bakery",
+        "url": "https:\/\/www.zomato.com\/adelaide\/jennys-gourmet-bakery-eastwood?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "81 Glen Osmond Road, Eastwood",
+          "locality": "Glen Osmond Road, Eastwood",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9440083333",
+          "longitude": "138.6214611111",
+          "zipcode": "5063",
+          "country_id": 14,
+          "locality_verbose": "Glen Osmond Road, Eastwood, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "8 AM to 5 PM (Mon-Fri),8 AM to 3:30 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Breakfast",
+          "No Alcohol Available",
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Indoor Seating",
+          "Gluten Free Options",
+          "Outdoor Seating",
+          "Vegetarian Friendly",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588764_RESTAURANT_b210a4abfbb13931c7e17dba2c6b2e00.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 135
+        },
+        "all_reviews_count": 40,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/jennys-gourmet-bakery-eastwood\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 33,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/jennys-gourmet-bakery-eastwood\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588764_RESTAURANT_b210a4abfbb13931c7e17dba2c6b2e00.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588764",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/jennys-gourmet-bakery-eastwood\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8272 9699",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588414,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588414",
+        "name": "Dough",
+        "url": "https:\/\/www.zomato.com\/adelaide\/dough-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop S45, Adelaide Central Markets, 77 Gouger Street, Adelaide",
+          "locality": "Gouger Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9305240000",
+          "longitude": "138.5964010000",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Gouger Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Desserts",
+        "timings": "Closed (Mon, Sun), 7 AM to 5:30 PM (Tue, Thu), 8 AM to 5 PM (Wed),7 AM to 9 PM (Fri),7 AM to 3 PM (Sat)",
+        "average_cost_for_two": 20,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Vegetarian Friendly",
+          "Gluten Free Options",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588414_RESTAURANT_27ef509eb35016ceab11a7a7f95ec084_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.2"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 74
+        },
+        "all_reviews_count": 25,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/dough-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 41,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/dough-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588414_RESTAURANT_27ef509eb35016ceab11a7a7f95ec084_c.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588414",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/dough-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8211 9640",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587740,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587740",
+        "name": "Patisserie JIN",
+        "url": "https:\/\/www.zomato.com\/adelaide\/patisserie-jin-hyde-park?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "241 Unley Road, Hyde Park",
+          "locality": "Unley Road, Hyde Park",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9555930000",
+          "longitude": "138.6080630000",
+          "zipcode": "5061",
+          "country_id": 14,
+          "locality_verbose": "Unley Road, Hyde Park, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Coffee and Tea, Bakery, Desserts, Cafe Food",
+        "timings": "11 AM to 9 PM (Mon-Wed),11 AM to 11:30 PM (Thu-Sat),Closed (Sun)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Dinner",
+          "Credit Card",
+          "No Alcohol Available",
+          "Kid Friendly",
+          "Halal",
+          "Desserts and Bakes",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Gluten Free Options",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587740_RESTAURANT_348bbe55490b67693b63067b34f4a4a7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.5",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.5"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 107
+        },
+        "all_reviews_count": 41,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/patisserie-jin-hyde-park\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 71,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/patisserie-jin-hyde-park\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587740_RESTAURANT_348bbe55490b67693b63067b34f4a4a7.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587740",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/patisserie-jin-hyde-park\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8299 9456",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588568,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588568",
+        "name": "Boulangerie 113",
+        "url": "https:\/\/www.zomato.com\/adelaide\/boulangerie-113-goodwood?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "113 Goodwood Road, Goodwood",
+          "locality": "Goodwood Road, Goodwood",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9515444444",
+          "longitude": "138.5895833333",
+          "zipcode": "5034",
+          "country_id": 14,
+          "locality_verbose": "Goodwood Road, Goodwood, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery",
+        "timings": "Closed (Mon, Sun), 8 AM to 5:30 PM (Tue-Fri),8 AM to 5 PM (Sat)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Takeaway Available",
+          "Lunch",
+          "Breakfast",
+          "No Alcohol Available",
+          "Desserts and Bakes",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588568_RESTAURANT_ed4e7a2b8fa3b7eb8e8fc93b998fe578.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 71
+        },
+        "all_reviews_count": 27,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/boulangerie-113-goodwood\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 24,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/boulangerie-113-goodwood\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588568_RESTAURANT_ed4e7a2b8fa3b7eb8e8fc93b998fe578.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588568",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/boulangerie-113-goodwood\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8373 2482",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16586838,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16586838",
+        "name": "Cafe de Vili's",
+        "url": "https:\/\/www.zomato.com\/adelaide\/cafe-de-vilis-mile-end-south?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "14 Manchester Street, Mile End South, Thebarton",
+          "locality": "Manchester Street, Mile End South",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9393880000",
+          "longitude": "138.5722050000",
+          "zipcode": "5031",
+          "country_id": 14,
+          "locality_verbose": "Manchester Street, Mile End South, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "24 Hours (Mon-Sun)",
+        "average_cost_for_two": 26,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Cash",
+          "Debit Card",
+          "No Alcohol Available",
+          "Dinner",
+          "Credit Card",
+          "Takeaway Available",
+          "Desserts and Bakes",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Kid Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586838_RESTAURANT_c3c17c72235963e74c9bd4ddb192e5ab.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 128
+        },
+        "all_reviews_count": 41,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/cafe-de-vilis-mile-end-south\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 11,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/cafe-de-vilis-mile-end-south\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586838_RESTAURANT_c3c17c72235963e74c9bd4ddb192e5ab.png",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16586838",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/cafe-de-vilis-mile-end-south\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8234 2042",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18051160,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "18051160",
+        "name": "Han's Patisserie",
+        "url": "https:\/\/www.zomato.com\/adelaide\/hans-patisserie-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "96 Wright Street, Adelaide",
+          "locality": "Wright Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9317215683",
+          "longitude": "138.5965633392",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Wright Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Patisserie, Bakery",
+        "timings": "Closed (Mon, Sun), 11 AM to 6 PM (Tue-Thu),11 AM to 10 PM (Fri),11 AM to 8 PM (Sat)",
+        "average_cost_for_two": 20,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "No Alcohol Available",
+          "Desserts and Bakes",
+          "Indoor Seating",
+          "Table booking not available"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18051160_RESTAURANT_ff31280bcb6864654c63ab1ab2fca6f5.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 54
+        },
+        "all_reviews_count": 20,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/hans-patisserie-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 65,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/hans-patisserie-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/18051160_RESTAURANT_ff31280bcb6864654c63ab1ab2fca6f5.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18051160",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/hans-patisserie-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0618 7226 8392",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Dessert Parlour"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589090,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589090",
+        "name": "Greedy Edie Kitchen and Cafe",
+        "url": "https:\/\/www.zomato.com\/adelaide\/greedy-edie-kitchen-and-cafe-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "6\/168 Melbourne Street, North Adelaide",
+          "locality": "Melbourne Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9079266507",
+          "longitude": "138.6054676026",
+          "zipcode": "5006",
+          "country_id": 14,
+          "locality_verbose": "Melbourne Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "7AM to 3:30PM (Mon-Fri),8AM to 3PM (Sat-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Breakfast",
+          "No Alcohol Available",
+          "Cash",
+          "Debit Card",
+          "Lunch",
+          "Credit Card",
+          "Takeaway Available",
+          "Indoor Seating",
+          "Wifi",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Desserts and Bakes",
+          "Outdoor Seating",
+          "Kid Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589090_RESTAURANT_735b7a597c48d9c44b403aa7d2c36dd6_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 65
+        },
+        "all_reviews_count": 35,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/greedy-edie-kitchen-and-cafe-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 42,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/greedy-edie-kitchen-and-cafe-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589090_RESTAURANT_735b7a597c48d9c44b403aa7d2c36dd6_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589090",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/greedy-edie-kitchen-and-cafe-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 7225 8855",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587652,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587652",
+        "name": "Nanna Hot Bake",
+        "url": "https:\/\/www.zomato.com\/adelaide\/nanna-hot-bake-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 30, Market Plaza, Grote Street, City Centre, Adelaide",
+          "locality": "Market Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9311290000",
+          "longitude": "138.5976560000",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Market Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery",
+        "timings": "8 AM to 5 PM (Mon-Thu),8 AM to 9 PM (Fri),8 AM to 3 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 20,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "No Alcohol Available",
+          "Takeaway Available",
+          "No Seating Available",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587652_RESTAURANT_abee1028d7d511c03ebdff8010a0583e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 75
+        },
+        "all_reviews_count": 24,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/nanna-hot-bake-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 14,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/nanna-hot-bake-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587652_RESTAURANT_abee1028d7d511c03ebdff8010a0583e.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587652",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/nanna-hot-bake-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8231 0069",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588736,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588736",
+        "name": "The Rolling Pin Bakery & Patisserie",
+        "url": "https:\/\/www.zomato.com\/adelaide\/the-rolling-pin-bakery-patisserie-magill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "92 St Bernards Road, Magill",
+          "locality": "Saint Bernards Road, Magill",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9035143967",
+          "longitude": "138.6749753729",
+          "zipcode": "5072",
+          "country_id": 14,
+          "locality_verbose": "Saint Bernards Road, Magill, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "8 AM to 5 PM (Mon-Fri),8 AM to 3 PM (Sat),Closed (Sun)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Credit Card",
+          "Breakfast",
+          "No Alcohol Available",
+          "Indoor Seating",
+          "Vegan Options",
+          "Desserts and Bakes",
+          "Outdoor Seating",
+          "Kid Friendly",
+          "Gluten Free Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588736_RESTAURANT_c3bec15ae9350195965da28c72beed2a.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.0"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 58
+        },
+        "all_reviews_count": 29,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/the-rolling-pin-bakery-patisserie-magill\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 23,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/the-rolling-pin-bakery-patisserie-magill\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588736_RESTAURANT_c3bec15ae9350195965da28c72beed2a.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588736",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/the-rolling-pin-bakery-patisserie-magill\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8331 7435",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587838,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587838",
+        "name": "The German Cake Shop",
+        "url": "https:\/\/www.zomato.com\/adelaide\/the-german-cake-shop-hahndorf?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "2 Pine Avenue, Hahndorf",
+          "locality": "Pine Avenue, Hahndorf",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-35.0298960000",
+          "longitude": "138.8099370000",
+          "zipcode": "5245",
+          "country_id": 14,
+          "locality_verbose": "Pine Avenue, Hahndorf, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Desserts, Sandwich",
+        "timings": "8 AM to 5:30 PM (Mon-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Lunch",
+          "Credit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "No Alcohol Available",
+          "Dinner",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Desserts and Bakes",
+          "Outdoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587838_RESTAURANT_751dedbc5f17327dcd3b932660f5bc17.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.3",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.3"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 64
+        },
+        "all_reviews_count": 36,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/the-german-cake-shop-hahndorf\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 49,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/the-german-cake-shop-hahndorf\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587838_RESTAURANT_751dedbc5f17327dcd3b932660f5bc17.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587838",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/the-german-cake-shop-hahndorf\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8388 7086",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588901,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588901",
+        "name": "Brighton Jetty Bakery",
+        "url": "https:\/\/www.zomato.com\/adelaide\/brighton-jetty-bakery-brighton?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "83 Jetty Road, Brighton",
+          "locality": "Jetty Road, Brighton",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-35.0173137000",
+          "longitude": "138.5151790000",
+          "zipcode": "5048",
+          "country_id": 14,
+          "locality_verbose": "Jetty Road, Brighton, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Desserts, Coffee and Tea",
+        "timings": "7:30 AM to 5 PM (Mon-Sun)",
+        "average_cost_for_two": 25,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Breakfast",
+          "No Alcohol Available",
+          "Credit Card",
+          "Lunch",
+          "Gluten Free Options",
+          "Outdoor Seating",
+          "Vegan Options",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588901_RESTAURANT_0ca1505ea93fd2dd49e2f075328b3383.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.2"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 61
+        },
+        "all_reviews_count": 34,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/brighton-jetty-bakery-brighton\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 5,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/brighton-jetty-bakery-brighton\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588901_RESTAURANT_0ca1505ea93fd2dd49e2f075328b3383.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588901",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/brighton-jetty-bakery-brighton\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8358 0888",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588724,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588724",
+        "name": "Eire Cafe",
+        "url": "https:\/\/www.zomato.com\/adelaide\/eire-cafe-clapham?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "98 Springbank Road, Clapham",
+          "locality": "Clapham",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9903701700",
+          "longitude": "138.6022995785",
+          "zipcode": "5062",
+          "country_id": 14,
+          "locality_verbose": "Clapham"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Coffee and Tea, Cafe Food",
+        "timings": "7:30 AM to 3:30 PM (Mon-Fri),8:30 AM to 2 PM (Sat-Sun)",
+        "average_cost_for_two": 50,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Lunch",
+          "Credit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "No Alcohol Available",
+          "Indoor Seating",
+          "Pet Friendly",
+          "Wifi",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Desserts and Bakes",
+          "Outdoor Seating",
+          "Kid Friendly",
+          "Wheelchair Accessible",
+          "Vegan Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588724_RESTAURANT_c28b84c730c63b45acfbe92afb75536b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 48
+        },
+        "all_reviews_count": 22,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/eire-cafe-clapham\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 17,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/eire-cafe-clapham\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588724_RESTAURANT_c28b84c730c63b45acfbe92afb75536b.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588724",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/eire-cafe-clapham\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 7225 9103",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587538,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587538",
+        "name": "The Red Mill Bakehouse",
+        "url": "https:\/\/www.zomato.com\/adelaide\/the-red-mill-bakehouse-ethelton?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "139 Bower Road, Ethelton",
+          "locality": "Bower Road, Ethelton",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.8512664287",
+          "longitude": "138.4890728071",
+          "zipcode": "5015",
+          "country_id": 14,
+          "locality_verbose": "Bower Road, Ethelton, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Sandwich, Coffee and Tea, Cafe Food",
+        "timings": "6:30 AM to 5 PM (Mon-Fri),6:30 AM to 4 PM (Sat-Sun)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Takeaway Available",
+          "Breakfast",
+          "No Alcohol Available",
+          "Lunch",
+          "Credit Card",
+          "Indoor Seating",
+          "Smoking Area",
+          "Vegan Options",
+          "Outdoor Seating",
+          "Kid Friendly",
+          "Wifi",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Desserts and Bakes"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587538_RESTAURANT_712da035f6bcb11f05cd552140126640.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "rating_obj": {
+            "title": {
+              "text": "4.0"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 67
+        },
+        "all_reviews_count": 29,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/the-red-mill-bakehouse-ethelton\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 16,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/the-red-mill-bakehouse-ethelton\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587538_RESTAURANT_712da035f6bcb11f05cd552140126640.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587538",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/the-red-mill-bakehouse-ethelton\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8449 8173",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588503,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588503",
+        "name": "Orange Spot Bakery",
+        "url": "https:\/\/www.zomato.com\/adelaide\/orange-spot-bakery-glenelg?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "752 Anzac Highway, Glenelg, Adelaide",
+          "locality": "Adelphi Terrace, Glenelg",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9764968366",
+          "longitude": "138.5140968114",
+          "zipcode": "5045",
+          "country_id": 14,
+          "locality_verbose": "Adelphi Terrace, Glenelg, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery",
+        "timings": "7 AM to 4:30 PM (Mon-Sun)",
+        "average_cost_for_two": 25,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Lunch",
+          "Takeaway Available",
+          "Breakfast",
+          "No Alcohol Available",
+          "Kid Friendly",
+          "Vegetarian Friendly",
+          "Outdoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588503_RESTAURANT_9d0e97dc3e7287879cbe1f21f9ce5811.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 56
+        },
+        "all_reviews_count": 22,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/orange-spot-bakery-glenelg\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 21,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/orange-spot-bakery-glenelg\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588503_RESTAURANT_9d0e97dc3e7287879cbe1f21f9ce5811.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588503",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/orange-spot-bakery-glenelg\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8295 5799",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bakery"
+        ],
+        "establishment_types": []
+      }
+    }
+  ]
+}

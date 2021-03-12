@@ -1,0 +1,2083 @@
+{
+  "results_found": 930,
+  "results_start": 80,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589378,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589378",
+        "name": "Soonta",
+        "url": "https:\/\/www.zomato.com\/adelaide\/soonta-1-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 4, Lower Ground Level, Rundle Place, 77 Rundle Mall, Adelaide",
+          "locality": "Rundle Mall, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9235721000",
+          "longitude": "138.6028183000",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Rundle Mall, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Vietnamese, Sandwich, Asian",
+        "timings": "9 AM to 5 PM (Mon, Tue, Wed, Thu, Sat, Sun), 9 AM to 9 PM (Fri)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Takeaway Available",
+          "Lunch",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589378_RESTAURANT_d84c730d3c2281bed6a9763c99f73916.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.8",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.8"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 43
+        },
+        "all_reviews_count": 18,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/soonta-1-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 18,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/soonta-1-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589378_RESTAURANT_d84c730d3c2281bed6a9763c99f73916.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589378",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/soonta-1-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8232 1163",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Food Court"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587848,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587848",
+        "name": "Ricky's Kitchen",
+        "url": "https:\/\/www.zomato.com\/adelaide\/rickys-kitchen-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Southern Cross Arcade, King William Street, Adelaide",
+          "locality": "King William Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9253650000",
+          "longitude": "138.5998230000",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "King William Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese",
+        "timings": "11:30 AM to 3 PM (Mon-Sat),Closed (Sun)",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "No Alcohol Available",
+          "Takeaway Available",
+          "Lunch",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587848_RESTAURANT_62429489cffa6de1d46ee7528ec00258.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 40
+        },
+        "all_reviews_count": 17,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/rickys-kitchen-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 7,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/rickys-kitchen-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587848_RESTAURANT_62429489cffa6de1d46ee7528ec00258.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587848",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/rickys-kitchen-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "0416 872 887",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Food Court"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587274,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587274",
+        "name": "Zen Chinese Restaurant",
+        "url": "https:\/\/www.zomato.com\/adelaide\/zen-chinese-restaurant-magill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "562 Magill Road, Magill",
+          "locality": "Magill Road, Magill",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9130983125",
+          "longitude": "138.6756905168",
+          "zipcode": "5072",
+          "country_id": 14,
+          "locality_verbose": "Magill Road, Magill, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese",
+        "timings": "Closed (Mon),5 PM to 9 PM (Tue, Wed, Thu, Sun), 5 PM to 10 PM (Fri-Sat)",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Delivery",
+          "Dinner",
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Gluten Free Options",
+          "BYO",
+          "Table booking recommended",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587274_RESTAURANT_933dab0110fea8ef446dd1807c05bc38.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 32
+        },
+        "all_reviews_count": 11,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/zen-chinese-restaurant-magill\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 35,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/zen-chinese-restaurant-magill\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587274_RESTAURANT_933dab0110fea8ef446dd1807c05bc38.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587274",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/zen-chinese-restaurant-magill\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8364 2333",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16542093,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16542093",
+        "name": "GIWA Korean BBQ Buffet",
+        "url": "https:\/\/www.zomato.com\/adelaide\/giwa-korean-bbq-buffet-wayville?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "113-115 King William Road, Wayville, Wayville, Adelaide",
+          "locality": "King William Road, Wayville",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9505805556",
+          "longitude": "138.5997777778",
+          "zipcode": "5061",
+          "country_id": 14,
+          "locality_verbose": "King William Road, Wayville, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Korean, BBQ, Asian",
+        "timings": "6 PM to 10 PM (Mon-Sun)",
+        "average_cost_for_two": 90,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Kid Friendly",
+          "Gluten Free Options",
+          "Buffet",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16542093_RESTAURANT_01ff1bd61a5ddf3c909bc6bd12f24929.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.0",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.0"
+            },
+            "bg_color": {
+              "type": "yellow",
+              "tint": "500"
+            }
+          },
+          "votes": 20
+        },
+        "all_reviews_count": 15,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/giwa-korean-bbq-buffet-wayville\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 14,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/giwa-korean-bbq-buffet-wayville\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16542093_RESTAURANT_01ff1bd61a5ddf3c909bc6bd12f24929.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16542093",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/giwa-korean-bbq-buffet-wayville\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8373 3114",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587861,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587861",
+        "name": "Bacchus - Food\/Drink\/Sing",
+        "url": "https:\/\/www.zomato.com\/adelaide\/bacchus-food-drink-sing-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "128 Grote Street, Adelaide",
+          "locality": "Grote Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9288271245",
+          "longitude": "138.5945577174",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Grote Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Korean, Asian",
+        "timings": "5 PM to 12 Midnight (Mon, Tue, Wed, Thu, Sun), 5 PM to 3 AM (Fri-Sat)",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Delivery",
+          "Dinner",
+          "Indoor Seating",
+          "Nightlife",
+          "Outdoor Seating",
+          "Karaoke",
+          "Fullbar",
+          "Table booking recommended"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "3.2",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.2"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 13
+        },
+        "all_reviews_count": 2,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/bacchus-food-drink-sing-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 13,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/bacchus-food-drink-sing-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587861",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/bacchus-food-drink-sing-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8410 8401",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587816,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587816",
+        "name": "Thailand Thai",
+        "url": "https:\/\/www.zomato.com\/adelaide\/thailand-thai-unley?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "5, 54 King William Road, Unley, Adelaide",
+          "locality": "King William Road, Unley",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9490168330",
+          "longitude": "138.5994547606",
+          "zipcode": "5034",
+          "country_id": 14,
+          "locality_verbose": "King William Road, Unley, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Thai, Asian",
+        "timings": "Closed (Mon),5:30 PM to 9 PM (Tue, Wed, Thu, Sat, Sun), 12 Noon to 2 PM, 5:30 PM to 9 PM (Fri)",
+        "average_cost_for_two": 70,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Vegetarian Friendly",
+          "Indoor Seating",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587816_RESTAURANT_e121fe541cf8e4c7c3919f12e3930033.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.3",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.3"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 46
+        },
+        "all_reviews_count": 32,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/thailand-thai-unley\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 2,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/thailand-thai-unley\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587816_RESTAURANT_e121fe541cf8e4c7c3919f12e3930033.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587816",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/thailand-thai-unley\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8271 1159",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588914,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588914",
+        "name": "Star of Saigon",
+        "url": "https:\/\/www.zomato.com\/adelaide\/star-of-saigon-mansfield-park?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 4, 270 Hanson Road, Mansfield Park, Adelaide",
+          "locality": "Hanson Road, Mansfield Park",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.8513222222",
+          "longitude": "138.5469805556",
+          "zipcode": "5012",
+          "country_id": 14,
+          "locality_verbose": "Hanson Road, Mansfield Park, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Vietnamese",
+        "timings": "10 AM to 3 PM, 5 PM to 10 PM (Mon, Wed, Thu, Fri, Sat, Sun), Closed (Tue)",
+        "average_cost_for_two": 50,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Takeaway Available",
+          "Delivery",
+          "Lunch",
+          "Indoor Seating",
+          "BYO",
+          "Gluten Free Options",
+          "Fullbar",
+          "Outdoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588914_RESTAURANT_f1dad46b1afd66cd5ec797490a80bf7f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 36
+        },
+        "all_reviews_count": 20,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/star-of-saigon-mansfield-park\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 18,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/star-of-saigon-mansfield-park\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588914_RESTAURANT_f1dad46b1afd66cd5ec797490a80bf7f.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588914",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/star-of-saigon-mansfield-park\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "08 8268 8819",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589007,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589007",
+        "name": "Gin Long Canteen",
+        "url": "https:\/\/www.zomato.com\/adelaide\/gin-long-canteen-north-adelaide?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "42 O'Connell Street, North Adelaide",
+          "locality": "O'connell Street, North Adelaide",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9078321000",
+          "longitude": "138.5968021000",
+          "zipcode": "5006",
+          "country_id": 14,
+          "locality_verbose": "O'connell Street, North Adelaide, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Malaysian, Thai, Vietnamese",
+        "timings": "Closed (Mon, Sun), 12 Noon to 2:30 PM, 5:30 PM to 9:30 PM (Tue-Thu),12 Noon to 2:30 PM, 5:30 PM to 10:30 PM (Fri),5:30 PM to 10:30 PM (Sat)",
+        "average_cost_for_two": 70,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Lunch",
+          "Dinner",
+          "Gluten Free Options",
+          "Outdoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589007_RESTAURANT_d517968f4412cafaee786716a453390a_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "rating_obj": {
+            "title": {
+              "text": "4.5"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "700"
+            }
+          },
+          "votes": 616
+        },
+        "all_reviews_count": 211,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/gin-long-canteen-north-adelaide\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 162,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/gin-long-canteen-north-adelaide\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589007_RESTAURANT_d517968f4412cafaee786716a453390a_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589007",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/gin-long-canteen-north-adelaide\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 7120 2897",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589408,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589408",
+        "name": "Nan Yuan",
+        "url": "https:\/\/www.zomato.com\/adelaide\/nan-yuan-daw-park?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "524 Goodwood Road, Daw Park, Daw Park, Adelaide",
+          "locality": "Goodwood Road, Daw Park",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9789168180",
+          "longitude": "138.5916783661",
+          "zipcode": "5041",
+          "country_id": 14,
+          "locality_verbose": "Goodwood Road, Daw Park, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese, Taiwanese",
+        "timings": "5 PM to 9:30 PM (Mon-Thu), 5 PM to 10 PM (Fri), 11 AM to 2:30 PM, 5 PM to 10 PM (Sat), 11 AM to 2:30 PM, 5 PM to 9:30 PM (Sun)",
+        "average_cost_for_two": 55,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Lunch",
+          "Dinner",
+          "Takeaway Available",
+          "Credit Card",
+          "BYO",
+          "Fullbar",
+          "Beer",
+          "Street Parking",
+          "Catering Available",
+          "Wifi",
+          "Gluten Free Options",
+          "Vegetarian Friendly",
+          "Free Parking",
+          "Wine",
+          "Indoor Seating",
+          "Table booking recommended",
+          "Wheelchair Accessible",
+          "Vegan Options"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589408_RESTAURANT_7490c09b06d48747746cac323062e663.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.4",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 20
+        },
+        "all_reviews_count": 12,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/nan-yuan-daw-park\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 62,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/nan-yuan-daw-park\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589408_RESTAURANT_7490c09b06d48747746cac323062e663.jpg?output-format=webp",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589408",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/nan-yuan-daw-park\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8271 3133, (08) 8271 3334",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587901,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587901",
+        "name": "Ba Ria Restaurant",
+        "url": "https:\/\/www.zomato.com\/adelaide\/ba-ria-restaurant-parafield-gardens?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "6 32 Catalina Avenue, Parafield Gardens, Adelaide",
+          "locality": "Catalina Avenue, Parafield Gardens",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.7885060000",
+          "longitude": "138.6144870000",
+          "zipcode": "5107",
+          "country_id": 14,
+          "locality_verbose": "Catalina Avenue, Parafield Gardens, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese, Vietnamese",
+        "timings": "9 AM to 6 PM (Mon-Sun)",
+        "average_cost_for_two": 55,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "No Alcohol Available",
+          "Dinner",
+          "Cash",
+          "Lunch",
+          "Credit Card",
+          "Takeaway Available",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587901_RESTAURANT_2a8614d31674ddef635f51bd3a400da8.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.3",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.3"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 31
+        },
+        "all_reviews_count": 9,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/ba-ria-restaurant-parafield-gardens\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 16,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/ba-ria-restaurant-parafield-gardens\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587901_RESTAURANT_2a8614d31674ddef635f51bd3a400da8.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587901",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/ba-ria-restaurant-parafield-gardens\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8285 5353",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588578,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588578",
+        "name": "Botanic Bar",
+        "url": "https:\/\/www.zomato.com\/adelaide\/botanic-bar-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "309 North Terrace, City Centre, Adelaide",
+          "locality": "East Terrace, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9212758016",
+          "longitude": "138.6105664819",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "East Terrace, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bar Food, Asian",
+        "timings": "Closed (Mon),5 PM to 12 Midnight (Tue-Fri),2 PM to 2 AM (Sat),4 PM to 1 AM (Sun)",
+        "average_cost_for_two": 0,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Nightlife",
+          "Outdoor Seating",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588578_RESTAURANT_1c0f77577fef1ccf55c73e3c69664a98.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.9"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 42
+        },
+        "all_reviews_count": 11,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/botanic-bar-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 18,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/botanic-bar-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588578_RESTAURANT_1c0f77577fef1ccf55c73e3c69664a98.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588578",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/botanic-bar-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8227 0799",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Bar"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589198,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589198",
+        "name": "Star Dumplings",
+        "url": "https:\/\/www.zomato.com\/adelaide\/star-dumplings-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "27 Moonta Street, Adelaide",
+          "locality": "Moonta Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9298788117",
+          "longitude": "138.5961123928",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Moonta Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese",
+        "timings": "11 AM to 9:30 PM (Mon-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Dinner",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589198_RESTAURANT_24f3976c665afcc576e9b75c0e654246.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 18
+        },
+        "all_reviews_count": 13,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/star-dumplings-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 10,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/star-dumplings-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589198_RESTAURANT_24f3976c665afcc576e9b75c0e654246.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589198",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/star-dumplings-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8212 1917",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589055,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589055",
+        "name": "Vientiane",
+        "url": "https:\/\/www.zomato.com\/adelaide\/vientiane-brighton?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "520 Brighton Road, Brighton, Adelaide",
+          "locality": "Brighton Road, Brighton",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-35.0223091227",
+          "longitude": "138.5234751552",
+          "zipcode": "5048",
+          "country_id": 14,
+          "locality_verbose": "Brighton Road, Brighton, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Thai",
+        "timings": "Closed (Mon),5 PM to 9 PM (Tue, Wed, Sat, Sun), 11:30 AM to 2:30 PM, 5 PM to 9 PM (Thu-Fri)",
+        "average_cost_for_two": 70,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Lunch",
+          "Credit Card",
+          "Dinner",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Wheelchair Accessible",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589055_RESTAURANT_097de0bf356a9024d4cb232eb333c345.JPG?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 20
+        },
+        "all_reviews_count": 9,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/vientiane-brighton\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 22,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/vientiane-brighton\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589055_RESTAURANT_097de0bf356a9024d4cb232eb333c345.JPG",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589055",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/vientiane-brighton\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8298 1806",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587471,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587471",
+        "name": "Oriental Garnish",
+        "url": "https:\/\/www.zomato.com\/adelaide\/oriental-garnish-littlehampton?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "70 North Terrace, Littlehampton",
+          "locality": "North Terrace, Littlehampton",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-35.0489820000",
+          "longitude": "138.8633280000",
+          "zipcode": "5250",
+          "country_id": 14,
+          "locality_verbose": "North Terrace, Littlehampton, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese",
+        "timings": "11:30 AM to 2:30 PM, 5 PM to 9 PM (Mon, Thu, Fri, Sat, Sun), Closed (Tue),5 PM to 9 PM (Wed)",
+        "average_cost_for_two": 65,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Dinner",
+          "Takeaway Available",
+          "Lunch",
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Outdoor Seating",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587471_RESTAURANT_8ade4e961e03f314afb54a5b1aebbfc7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 33
+        },
+        "all_reviews_count": 15,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/oriental-garnish-littlehampton\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 14,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/oriental-garnish-littlehampton\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587471_RESTAURANT_8ade4e961e03f314afb54a5b1aebbfc7.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587471",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/oriental-garnish-littlehampton\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8398 3182",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16586986,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16586986",
+        "name": "Indochina",
+        "url": "https:\/\/www.zomato.com\/adelaide\/indochina-unley?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "153 Unley Road, Unley, Unley, Adelaide",
+          "locality": "Unley Road, Unley",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9492790000",
+          "longitude": "138.6077210000",
+          "zipcode": "5061",
+          "country_id": 14,
+          "locality_verbose": "Unley Road, Unley, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Thai, Indonesian",
+        "timings": "12 Noon to 2:30 PM, 5 PM to 11 PM (Mon-Fri),5 PM to 11 PM (Sat-Sun)",
+        "average_cost_for_two": 65,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Cash",
+          "Debit Card",
+          "Delivery",
+          "Lunch",
+          "Credit Card",
+          "Takeaway Available",
+          "Dinner",
+          "Kid Friendly",
+          "Gluten Free Options",
+          "BYO",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586986_RESTAURANT_df765638826b62b0e932ec3de91ea078_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "2.8",
+          "rating_text": "Average",
+          "rating_color": "FFBA00",
+          "rating_obj": {
+            "title": {
+              "text": "2.8"
+            },
+            "bg_color": {
+              "type": "yellow",
+              "tint": "500"
+            }
+          },
+          "votes": 31
+        },
+        "all_reviews_count": 12,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/indochina-unley\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 27,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/indochina-unley\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586986_RESTAURANT_df765638826b62b0e932ec3de91ea078_c.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16586986",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/indochina-unley\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8373 5888",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16587759,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16587759",
+        "name": "Kiem Bo Chinese and Thai Restaurant",
+        "url": "https:\/\/www.zomato.com\/adelaide\/kiem-bo-chinese-and-thai-restaurant-golden-grove?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "1 307 The Golden Way, Golden Grove",
+          "locality": "The Golden Way, Golden Grove",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.7832676765",
+          "longitude": "138.7085851282",
+          "zipcode": "5125",
+          "country_id": 14,
+          "locality_verbose": "The Golden Way, Golden Grove, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Chinese, Thai, Asian",
+        "timings": "4:30 PM to 9 PM (Mon-Thu),4:30 PM to 9:30 PM (Fri-Sun)",
+        "average_cost_for_two": 50,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Dinner",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587759_RESTAURANT_1f2c84d48895ecd715f2bafa4a83c6e0.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.1",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.1"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 27
+        },
+        "all_reviews_count": 15,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/kiem-bo-chinese-and-thai-restaurant-golden-grove\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 5,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/kiem-bo-chinese-and-thai-restaurant-golden-grove\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16587759_RESTAURANT_1f2c84d48895ecd715f2bafa4a83c6e0.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16587759",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/kiem-bo-chinese-and-thai-restaurant-golden-grove\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8251 4888",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16589163,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16589163",
+        "name": "Sun Mis Sushi",
+        "url": "https:\/\/www.zomato.com\/adelaide\/sun-mis-sushi-city-centre?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 26, Adelaide Central Markets, 44-60 Gouger Street, Adelaide",
+          "locality": "Grote Street, City Centre",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9288250000",
+          "longitude": "138.5975194444",
+          "zipcode": "5000",
+          "country_id": 14,
+          "locality_verbose": "Grote Street, City Centre, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Korean, Sushi",
+        "timings": "Closed (Mon, Sun), 7 AM to 5:30 PM (Tue),9 AM to 5:30 PM (Wed-Thu),7 AM to 9 PM (Fri),7 AM to 3 PM (Sat)",
+        "average_cost_for_two": 15,
+        "price_range": 1,
+        "currency": "$",
+        "highlights": [
+          "Takeaway Available",
+          "Lunch",
+          "Breakfast",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589163_RESTAURANT_0f7475f3f7a73ced22ec9c9824b7eadf.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 14
+        },
+        "all_reviews_count": 8,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/sun-mis-sushi-city-centre\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 6,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/sun-mis-sushi-city-centre\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16589163_RESTAURANT_0f7475f3f7a73ced22ec9c9824b7eadf.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16589163",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/sun-mis-sushi-city-centre\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8211 7373",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Fast Food"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588643,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588643",
+        "name": "Now or Never Cafe & Thai Cuisine",
+        "url": "https:\/\/www.zomato.com\/adelaide\/now-or-never-cafe-thai-cuisine-dulwich?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "64a Dulwich Avenue, Dulwich",
+          "locality": "Dulwich Avenue, Dulwich",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9353190000",
+          "longitude": "138.6313060000",
+          "zipcode": "5065",
+          "country_id": 14,
+          "locality_verbose": "Dulwich Avenue, Dulwich, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Coffee and Tea, Thai",
+        "timings": "Closed (Mon),11 AM to 2:30 PM, 5 PM to 9 PM (Tue),11 AM to 2:30 PM, 5 PM to 9:30 PM (Wed-Fri),5 PM to 9:30 PM (Sat-Sun)",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "$",
+        "highlights": [
+          "Dinner",
+          "Credit Card",
+          "Lunch",
+          "Gluten Free Options",
+          "Lunch Menu",
+          "BYO",
+          "Outdoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588643_RESTAURANT_a8098324da1da639a7c58d8d83ac6f75.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.7"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 38
+        },
+        "all_reviews_count": 17,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/now-or-never-cafe-thai-cuisine-dulwich\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 13,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/now-or-never-cafe-thai-cuisine-dulwich\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588643_RESTAURANT_a8098324da1da639a7c58d8d83ac6f75.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588643",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/now-or-never-cafe-thai-cuisine-dulwich\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 7073 4921",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16586901,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16586901",
+        "name": "East Asian Bistro",
+        "url": "https:\/\/www.zomato.com\/adelaide\/east-asian-bistro-hazelwood-park?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "466 Greenhill Road, Linden Park",
+          "locality": "Linden Avenue, Hazelwood Park",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.9388731276",
+          "longitude": "138.6514547467",
+          "zipcode": "5065",
+          "country_id": 14,
+          "locality_verbose": "Linden Avenue, Hazelwood Park, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian, Chinese",
+        "timings": "11:30 AM to 2:30 PM, 5:30 PM to 10 PM (Mon-Fri),5:30 PM to 10 PM (Sat-Sun)",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Lunch",
+          "Dinner",
+          "Indoor Seating",
+          "Vegetarian Friendly"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586901_RESTAURANT_882ef1f1eec256999bcfad845509d722.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "rating_obj": {
+            "title": {
+              "text": "3.6"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "600"
+            }
+          },
+          "votes": 29
+        },
+        "all_reviews_count": 9,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/east-asian-bistro-hazelwood-park\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 6,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/east-asian-bistro-hazelwood-park\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16586901_RESTAURANT_882ef1f1eec256999bcfad845509d722.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16586901",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/east-asian-bistro-hazelwood-park\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8379 6888",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16588802,
+          "is_grocery_store": false,
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          }
+        },
+        "apikey": "c1d331ff7e4dcfb200d33fa7efb9b184",
+        "id": "16588802",
+        "name": "New Century Restaurant",
+        "url": "https:\/\/www.zomato.com\/adelaide\/new-century-restaurant-mawson-lakes?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop 1, 99 Elder Drive, Mawson Lakes, Mawson Lakes, Adelaide",
+          "locality": "Elder Drive, Mawson Lakes",
+          "city": "Adelaide",
+          "city_id": 297,
+          "latitude": "-34.8030642303",
+          "longitude": "138.6076931655",
+          "zipcode": "5095",
+          "country_id": 14,
+          "locality_verbose": "Elder Drive, Mawson Lakes, Adelaide, SA"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Asian",
+        "timings": "5 PM to 10 PM (Mon, Wed-Sun), Tue Closed",
+        "average_cost_for_two": 70,
+        "price_range": 3,
+        "currency": "$",
+        "highlights": [
+          "Credit Card",
+          "Takeaway Available",
+          "Dinner",
+          "Kid Friendly",
+          "Vegetarian Friendly",
+          "Indoor Seating",
+          "Wheelchair Accessible",
+          "Vegan Options",
+          "Fullbar"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588802_RESTAURANT_f37831cafb99d69147af2625c90f1581.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.4",
+          "rating_text": "Average",
+          "rating_color": "CDD614",
+          "rating_obj": {
+            "title": {
+              "text": "3.4"
+            },
+            "bg_color": {
+              "type": "lime",
+              "tint": "500"
+            }
+          },
+          "votes": 40
+        },
+        "all_reviews_count": 23,
+        "photos_url": "https:\/\/www.zomato.com\/adelaide\/new-century-restaurant-mawson-lakes\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 15,
+        "menu_url": "https:\/\/www.zomato.com\/adelaide\/new-century-restaurant-mawson-lakes\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16588802_RESTAURANT_f37831cafb99d69147af2625c90f1581.jpg",
+        "medio_provider": false,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "store_type": "",
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/16588802",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/adelaide\/new-century-restaurant-mawson-lakes\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "(08) 8285 4890",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            },
+            {
+              "review": []
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    }
+  ]
+}
