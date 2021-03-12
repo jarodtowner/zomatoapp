@@ -1,20 +1,40 @@
 import React from 'react';
+import Checkbox from './Checkbox';
 
 interface FiltersProps {
   filters: string[];
 }
 
-export default class Filters extends React.Component<FiltersProps> {
+interface FiltersState {
+  activeFilters: string[];
+}
+
+export default class Filters extends React.Component<FiltersProps, FiltersState> {
+
+  state = {
+    activeFilters: []
+  }
 
   constructor(props: FiltersProps) {
     super(props);
+    this.filterToggle = this.filterToggle.bind(this);
+  }
+
+  filterToggle(label: string, value: boolean): void {
+    let active: string[] = JSON.parse(JSON.stringify(this.state.activeFilters));
+    if (value) {
+      active.push(label);
+    } else {
+      active = active.filter((el: string) => el !== label);
+    }
+    this.setState({activeFilters: active}, () => console.log(this.state.activeFilters));
   }
 
   render(): JSX.Element {
 
     const items: JSX.Element[] = [];
     for (const filter of this.props.filters) {
-      items.push(<li>{filter}</li>);
+      items.push(<Checkbox onToggle={this.filterToggle} id={filter} label={filter}></Checkbox>);
     }
 
     return (

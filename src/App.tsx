@@ -18,8 +18,6 @@ export default class App extends React.Component<unknown, AppState> {
     const api = new API('');
     api.get('https://developers.zomato.com/api/v2.1/categories')
       .then(res => {
-        console.log(res);
-        console.log(res.categories);
         this.setState({filters: res.categories.map((el: { categories: { id: number; name: string }}) => el.categories.name)});
       });
   }
