@@ -14,6 +14,10 @@ export default class API {
     case 'https://developers.zomato.com/api/v2.1/categories':
       return require('./results/categories/categories.json');
 
+      // Default url
+    case 'https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=&category=&start=0&count=20':
+      return require('./results/categories/dining/page1.json');
+
       // Delivery
     case 'https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=&category=1&start=0&count=20':
       return require('./results/categories/delivery/page1.json');
