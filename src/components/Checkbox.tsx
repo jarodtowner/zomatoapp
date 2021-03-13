@@ -20,7 +20,9 @@ export default class Checkbox extends React.Component<CheckboxProps, CheckboxSta
   constructor(props: CheckboxProps) {
     super(props);
     if (this.props.value) {
-      this.setState({ value: this.props.value });
+      this.state = {
+        value: this.props.value
+      };
     }
     this.click = this.click.bind(this);
   }

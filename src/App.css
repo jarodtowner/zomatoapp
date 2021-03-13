@@ -27,7 +27,7 @@
     position: absolute; 
   }
 
-  .results {
+  .restaurant-list {
     position: absolute; 
   }
 }
@@ -43,7 +43,7 @@
   grid-area: filters;
 }
 
-.results {
+.restaurant-list {
   background-color: var(--background);
   overflow-Y: auto;
   grid-area: results;

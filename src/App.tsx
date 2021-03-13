@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Filters from './components/Filters';
 import Restaurant from './components/Restaurant';
+import RestaurantList from './components/RestaurantList';
 import API from './util/API';
 
 interface RestaurantInterface {
@@ -84,19 +85,22 @@ interface AppState {
   categories: string[];
   cuisines: string[];
   restaurants: RestaurantInterface[];
+  activeRestaurant?: Partial<RestaurantInterface>;
 }
 
 export default class App extends React.Component<unknown, AppState> {
 
-  state = {
+  state: AppState = {
     categories: [],
     cuisines: [],
-    restaurants: []
+    restaurants: [],
+    activeRestaurant: {}
   }
 
   constructor() {
     super({});
     const api = new API('');
+    this.handleRestaurantSelect = this.handleRestaurantSelect.bind(this);
     api.get('https://developers.zomato.com/api/v2.1/categories')
       .then(res => {
         this.setState({
@@ -111,19 +115,40 @@ export default class App extends React.Component<unknown, AppState> {
             .map((el: { cuisine: { cuisine_id: number; cuisine_name: string; }}) => el.cuisine.cuisine_name)
         });
       });
+    api.get('https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=&category=&start=0&count=20')
+      .then(res => {
+        this.setState({
+          restaurants: res.restaurants
+        });
+      });
+  }
+
+  handleRestaurantSelect(index: number): void {
+    this.setState({
+      activeRestaurant: this.state.restaurants[index]
+    }, () => console.log(this.state.activeRestaurant));
   }
 
   render(): JSX.Element {
 
-    const { categories, cuisines } = this.state;
+    const { categories, cuisines, restaurants } = this.state;
+
+    const restaurantNames: { name: string; }[] = [];
+    for (const restaurant of restaurants as RestaurantInterface[]) {
+      restaurantNames.push({
+        name: restaurant.restaurant.name
+      });
+    }
 
     return (
       <div className="App">
         <Filters categories={categories} cuisines={cuisines}></Filters>
+        <RestaurantList onSelect={this.handleRestaurantSelect} restaurants={restaurantNames}></RestaurantList>
         <div className="results"></div>
         <Restaurant
-          name="Some Restaurant"
-          address="1 Some Street, Adelaide"
+          name={this.state.activeRestaurant?.restaurant?.name}
+          address={this.state.activeRestaurant?.restaurant?.location.address}
+          phone={this.state.activeRestaurant?.restaurant?.phone_numbers}
         />
       </div>
     );
