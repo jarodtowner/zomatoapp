@@ -7,6 +7,8 @@ interface RestaurantListProps {
   onSelect?: (index: number) => void;
   onMore?: () => void;
   isMore?: boolean;
+  isPrev?: boolean;
+  onPrev?: () => void;
 }
 
 interface RestaurantListState {
@@ -19,6 +21,7 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     super(props);
     this.handleSelect = this.handleSelect.bind(this);
     this.handleShowMore = this.handleShowMore.bind(this);
+    this.handleShowPrevious = this.handleShowPrevious.bind(this);
 
     this.state = {
       selected: -1,
@@ -35,8 +38,20 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
   }
 
   handleShowMore(): void {
+    this.setState({
+      selected: -1
+    });
     if (this.props.onMore) {
       this.props.onMore();
+    }
+  }
+
+  handleShowPrevious(): void {
+    this.setState({
+      selected: -1
+    });
+    if (this.props.onPrev) {
+      this.props.onPrev();
     }
   }
 
@@ -61,6 +76,7 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
 
     return (
       <div className="restaurant-list">
+        {this.props.isPrev && <p onClick={this.handleShowPrevious}>Show Previous</p>}
         {listItems}
         {this.props.isMore && <p onClick={this.handleShowMore}>Show More</p>}
       </div>

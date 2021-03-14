@@ -122,6 +122,7 @@ export default class App extends React.Component<unknown, AppState> {
     this.handleFilterChange = this.handleFilterChange.bind(this);
     this.getRestaurantData = this.getRestaurantData.bind(this);
     this.handleMore = this.handleMore.bind(this);
+    this.handlePrevious = this.handlePrevious.bind(this);
     this.api.get('https://developers.zomato.com/api/v2.1/categories')
       .then(res => {
         this.setState({
@@ -158,11 +159,19 @@ export default class App extends React.Component<unknown, AppState> {
 
   handleMore(): boolean {
     this.setState({
-      page: this.state.page + 1
+      page: this.state.page + 1,
     }, () => {
       this.getRestaurantData(this.state.page, 20, this.state.selectedCategory, this.state.selectedCuisine);
     });
     return false;
+  }
+
+  handlePrevious(): void {
+    this.setState({
+      page: this.state.page - 1,
+    }, () => {
+      this.getRestaurantData(this.state.page, 20, this.state.selectedCategory, this.state.selectedCuisine);
+    });
   }
 
   handleFilterChange(category?: number, cuisine?: number): void {
@@ -192,6 +201,8 @@ export default class App extends React.Component<unknown, AppState> {
         <RestaurantList
           onMore={this.handleMore}
           isMore={this.state.isMoreRestaurants}
+          isPrev={this.state.page > 0}
+          onPrev={this.handlePrevious}
           onSelect={this.handleRestaurantSelect}
           restaurants={restaurantNames}
         ></RestaurantList>
