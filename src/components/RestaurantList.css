@@ -1,8 +1,10 @@
 .restaurant-list__item {
-  width: 100%;
-  height: 35px;
+  width: 95%;
+  min-height: 35px;
+  padding: 5px;
   display: flex;
-  border-bottom: 1px solid var(--text-med);
+  border-bottom: 1px solid var(--text-light);
+  color: var(--text-light);
   justify-content: left;
   padding-left: 40px;
   align-items: center;
