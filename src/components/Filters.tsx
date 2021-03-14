@@ -48,13 +48,17 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
 
     return (
       <div className="filters">
-        <div className="filters__categories">
+        <div className="filters__section">
           <h1>Categories</h1>
-          {categories}
+          <div className="filters__options">
+            {categories}
+          </div>
         </div>
-        <div className="filters__categories">
+        <div className="filters__section">
           <h1>Cuisines</h1>
-          {cuisines}
+          <div className="filters__options">
+            {cuisines}
+          </div>
         </div>
       </div>
     );

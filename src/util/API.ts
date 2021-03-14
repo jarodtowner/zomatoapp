@@ -12,7 +12,7 @@ export default class API {
     const requestUrl = `${this.baseUrl}${url}`;
     switch (requestUrl) {
     case 'https://developers.zomato.com/api/v2.1/categories':
-      return require('./results/categories/categories.json');
+      return require('./results/categories/categories-short.json');
 
       // Default url
     case 'https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=&category=&start=0&count=20':
@@ -94,7 +94,7 @@ export default class API {
 
     case 'https://developers.zomato.com/api/v2.1/cuisines?city_id=297':
       // Mock File: cuisines/cuisines.json
-      return require('./results/cuisines/cuisines.json');
+      return require('./results/cuisines/cuisines-short.json');
 
       // ### Asian
 

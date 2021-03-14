@@ -1,4 +1,5 @@
 import React from 'react';
+import './Checkbox.css';
 
 interface CheckboxProps {
   label: string;
@@ -37,7 +38,7 @@ export default class Checkbox extends React.Component<CheckboxProps, CheckboxSta
 
   render(): JSX.Element {
     return (
-      <div>
+      <div className="checkbox">
         <input id={this.props.id} type="checkbox" onChange={this.click} checked={this.state.value}></input>
         <label htmlFor={this.props.id}>{this.props.label}</label>
       </div>
