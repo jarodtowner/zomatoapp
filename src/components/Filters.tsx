@@ -1,49 +1,70 @@
 import React from 'react';
+import {Category, Cuisine} from '../App';
 import Checkbox from './Checkbox';
 import './Filters.css';
 
 interface FiltersProps {
-  categories: string[];
-  cuisines: string[]
+  categories: Category[];
+  cuisines: Cuisine[]
+  onChange?: (category?: number, cuisine?: number) => void;
 }
 
 interface FiltersState {
-  activeCategories: string[];
-  activeCuisines: string[];
+  activeCategory: number;
+  activeCuisine: number;
 }
 
 export default class Filters extends React.Component<FiltersProps, FiltersState> {
 
   state = {
-    activeCategories: [],
-    activeCuisines: []
+    activeCategory: -1,
+    activeCuisine: -1
   }
 
   constructor(props: FiltersProps) {
     super(props);
-    this.handleToggle = this.handleToggle.bind(this);
+    this.handleCategoryToggle = this.handleCategoryToggle.bind(this);
+    this.handleCuisineToggle = this.handleCuisineToggle.bind(this);
   }
 
-  handleToggle(label: string, value: boolean): void {
-    let active: string[] = JSON.parse(JSON.stringify(this.state.activeCategories));
-    if (value) {
-      active.push(label);
-    } else {
-      active = active.filter((el: string) => el !== label);
-    }
-    this.setState({activeCategories: active}, () => console.log(this.state.activeCategories));
+  handleCategoryToggle(label: string): void {
+    this.setState({
+      activeCategory: (this.props.categories.find(category => category.categories.name === label)?.categories.id as number),
+      activeCuisine: -1
+    }, () => {
+      if (this.props.onChange) {
+        const category = this.state.activeCategory === -1 ? undefined : this.state.activeCategory;
+        this.props.onChange(category, undefined);
+      }
+    });
+  }
+
+  handleCuisineToggle(label: string): void {
+    this.setState({
+      activeCuisine: (this.props.cuisines.find(cuisine => cuisine.cuisine.cuisine_name === label)?.cuisine.cuisine_id as number),
+      activeCategory: -1
+    }, () => {
+      if (this.props.onChange) {
+        const cuisine = this.state.activeCuisine === -1 ? undefined : this.state.activeCuisine;
+        this.props.onChange(undefined, cuisine);
+      }
+    });
   }
 
   render(): JSX.Element {
 
     const categories: JSX.Element[] = [];
-    for (const filter of this.props.categories) {
-      categories.push(<Checkbox onToggle={this.handleToggle} id={filter} label={filter}></Checkbox>);
+    for (const category of this.props.categories) {
+      const isSelected = this.state.activeCategory === category.categories.id;
+
+      categories.push(<Checkbox onToggle={this.handleCategoryToggle} value={isSelected} id={category.categories.name} label={category.categories.name}></Checkbox>);
     }
 
     const cuisines: JSX.Element[] = [];
     for (const cuisine of this.props.cuisines) {
-      cuisines.push(<Checkbox onToggle={this.handleToggle} id={cuisine} label={cuisine}></Checkbox>);
+      const isSelected = this.state.activeCuisine === cuisine.cuisine.cuisine_id;
+
+      cuisines.push(<Checkbox value={isSelected} onToggle={this.handleCuisineToggle} id={cuisine.cuisine.cuisine_name} label={cuisine.cuisine.cuisine_name}></Checkbox>);
     }
 
     return (
@@ -63,5 +84,4 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
       </div>
     );
   }
-
 }

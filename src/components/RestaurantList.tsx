@@ -5,6 +5,8 @@ import './RestaurantList.css';
 interface RestaurantListProps {
   restaurants: { name: string; }[]
   onSelect?: (index: number) => void;
+  onMore?: () => void;
+  isMore?: boolean;
 }
 
 interface RestaurantListState {
@@ -12,13 +14,15 @@ interface RestaurantListState {
 }
 
 export default class RestaurantList extends React.Component<RestaurantListProps, RestaurantListState> {
-  state = {
-    selected: -1
-  }
 
   constructor(props: RestaurantListProps) {
     super(props);
     this.handleSelect = this.handleSelect.bind(this);
+    this.handleShowMore = this.handleShowMore.bind(this);
+
+    this.state = {
+      selected: -1,
+    };
   }
 
   handleSelect(event: React.MouseEvent<HTMLDivElement>): void {
@@ -27,6 +31,12 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     this.setState({ selected: Number(index) });
     if (this.props.onSelect) {
       this.props.onSelect(index);
+    }
+  }
+
+  handleShowMore(): void {
+    if (this.props.onMore) {
+      this.props.onMore();
     }
   }
 
@@ -52,6 +62,7 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     return (
       <div className="restaurant-list">
         {listItems}
+        {this.props.isMore && <p onClick={this.handleShowMore}>Show More</p>}
       </div>
     );
   }

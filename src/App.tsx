@@ -82,11 +82,24 @@ interface RestaurantInterface {
 }
 
 interface AppState {
-  categories: string[];
-  cuisines: string[];
+  categories: Category[];
+  cuisines: Cuisine[];
   restaurants: RestaurantInterface[];
   activeRestaurant?: Partial<RestaurantInterface>;
+  selectedCuisine?: number;
+  selectedCategory?: number;
+  page: number;
+  isMoreRestaurants: boolean;
 }
+
+export interface Cuisine {
+ cuisine: { cuisine_id: number; cuisine_name: string; }
+}
+
+export interface Category {
+ categories: { id: number; name: string }
+}
+
 
 export default class App extends React.Component<unknown, AppState> {
 
@@ -94,31 +107,45 @@ export default class App extends React.Component<unknown, AppState> {
     categories: [],
     cuisines: [],
     restaurants: [],
-    activeRestaurant: {}
+    activeRestaurant: {},
+    page: 0,
+    selectedCategory: 2,
+    isMoreRestaurants: true
   }
+
+  api: API;
 
   constructor() {
     super({});
-    const api = new API('');
+    this.api = new API('');
     this.handleRestaurantSelect = this.handleRestaurantSelect.bind(this);
-    api.get('https://developers.zomato.com/api/v2.1/categories')
+    this.handleFilterChange = this.handleFilterChange.bind(this);
+    this.getRestaurantData = this.getRestaurantData.bind(this);
+    this.handleMore = this.handleMore.bind(this);
+    this.api.get('https://developers.zomato.com/api/v2.1/categories')
       .then(res => {
         this.setState({
           categories: res.categories
-            .map((el: { categories: { id: number; name: string }}) => el.categories.name)
         });
       });
-    api.get('https://developers.zomato.com/api/v2.1/cuisines?city_id=297')
+    this.api.get('https://developers.zomato.com/api/v2.1/cuisines?city_id=297')
       .then(res => {
         this.setState({ 
           cuisines: res.cuisines
-            .map((el: { cuisine: { cuisine_id: number; cuisine_name: string; }}) => el.cuisine.cuisine_name)
         });
       });
-    api.get('https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=&category=&start=0&count=20')
+    this.getRestaurantData();
+  }
+
+  getRestaurantData(page = 0, count = 20, category?: number, cuisine?: number): void {
+    const categoryString = category !== undefined ? String(category) : '';
+    const cuisineString = cuisine !== undefined ? String(cuisine) : '';
+    const start = page * count;
+    this.api.get(`https://developers.zomato.com/api/v2.1/search?entity_id=297&entity_type=city&cuisines=${cuisineString}&category=${categoryString}&start=${start}&count=${count}`)
       .then(res => {
         this.setState({
-          restaurants: res.restaurants
+          restaurants: res.restaurants,
+          isMoreRestaurants: res.results_shown > 0
         });
       });
   }
@@ -127,6 +154,25 @@ export default class App extends React.Component<unknown, AppState> {
     this.setState({
       activeRestaurant: this.state.restaurants[index]
     }, () => console.log(this.state.activeRestaurant));
+  }
+
+  handleMore(): boolean {
+    this.setState({
+      page: this.state.page + 1
+    }, () => {
+      this.getRestaurantData(this.state.page, 20, this.state.selectedCategory, this.state.selectedCuisine);
+    });
+    return false;
+  }
+
+  handleFilterChange(category?: number, cuisine?: number): void {
+    this.setState({
+      selectedCuisine: cuisine,
+      selectedCategory: category,
+      page: 0 
+    }, () => {
+      this.getRestaurantData(this.state.page, 20, this.state.selectedCategory, this.state.selectedCuisine);
+    });
   }
 
   render(): JSX.Element {
@@ -142,9 +188,13 @@ export default class App extends React.Component<unknown, AppState> {
 
     return (
       <div className="App">
-        <Filters categories={categories} cuisines={cuisines}></Filters>
-        <RestaurantList onSelect={this.handleRestaurantSelect} restaurants={restaurantNames}></RestaurantList>
-        <div className="results"></div>
+        <Filters onChange={this.handleFilterChange} categories={categories} cuisines={cuisines}></Filters>
+        <RestaurantList
+          onMore={this.handleMore}
+          isMore={this.state.isMoreRestaurants}
+          onSelect={this.handleRestaurantSelect}
+          restaurants={restaurantNames}
+        ></RestaurantList>
         <Restaurant
           name={this.state.activeRestaurant?.restaurant?.name}
           address={this.state.activeRestaurant?.restaurant?.location.address}

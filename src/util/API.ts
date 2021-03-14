@@ -9,6 +9,7 @@ export default class API {
   }
 
   async get(url: string): Promise<any> {
+    console.info(`GET: ${url}`);
     const requestUrl = `${this.baseUrl}${url}`;
     switch (requestUrl) {
     case 'https://developers.zomato.com/api/v2.1/categories':
@@ -207,7 +208,10 @@ export default class API {
       return require('./results/cuisines/pizza/page5.json');
 
     default:
-      return {};
+      return {
+        results_shown: 0,
+        restaurants: [],
+      };
     }
   }
 }

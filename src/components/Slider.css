@@ -1,0 +1,14 @@
+.slider {
+  background: red;
+  height: 50px;
+  width: 333px;
+  position: relative;
+}
+
+.slider__node {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background: white;
+  cursor: move;
+}

@@ -8,8 +8,8 @@
 .filters__section .filters__options {
   display: flex;
   flex-direction: column;
-  gap: 20px;
   max-height: 50%;
+  gap: 5px;
   flex-wrap: wrap;
 }
 
