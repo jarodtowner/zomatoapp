@@ -149,6 +149,11 @@ export default class App extends React.Component<unknown, AppState> {
           name={this.state.activeRestaurant?.restaurant?.name}
           address={this.state.activeRestaurant?.restaurant?.location.address}
           phone={this.state.activeRestaurant?.restaurant?.phone_numbers}
+          cuisines={this.state.activeRestaurant?.restaurant?.cuisines}
+          hours={this.state.activeRestaurant?.restaurant?.timings}
+          delivery={this.state.activeRestaurant?.restaurant?.is_delivering_now}
+          reservation={this.state.activeRestaurant?.restaurant?.is_table_reservation_supported}
+          imageUrl={this.state.activeRestaurant?.restaurant?.featured_image}
         />
       </div>
     );

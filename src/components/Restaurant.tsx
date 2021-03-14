@@ -1,12 +1,16 @@
+import classNames from 'classnames';
 import React from 'react';
 import './Restaurant.css';
 
 interface RestaurantProps {
   name?: string;
   address?: string;
-  cuisines?: string[];
+  cuisines?: string;
   phone?: string;
-  attributes?: { name: string, value: boolean }[];
+  hours?: string;
+  delivery?: number;
+  reservation?: number;
+  imageUrl?: string;
 }
 
 class Restaurant extends React.Component<RestaurantProps> {
@@ -17,23 +21,44 @@ class Restaurant extends React.Component<RestaurantProps> {
 
 
   render(): JSX.Element {
-    const attributes: JSX.Element[] = [];
 
-    if (this.props.attributes) {
-      for (const attribute of this.props.attributes) {
-        attributes.push(<li>{attribute.name}</li>);
-      }
+    const hours: JSX.Element[] = [];
+    if (this.props.hours) {
+      this.props.hours.split(',').forEach((time, index) => {
+        const key = `hour-${index}`;
+        hours.push(<p key={key}>{time}</p>);
+      });
     }
 
+    const attributes: JSX.Element[] = [];
+    if (this.props.delivery !== undefined) {
+      const marker = this.props.delivery ? '+' : '-';
+      attributes.push(<div key="delivery">{marker} Delivery</div>);
+    }      
+
+    if (this.props.reservation !== undefined) {
+      const marker = this.props.reservation ? '+' : '-';
+      attributes.push(<div key="reservation">{marker} Reservations</div>);
+    }
+
+    const componentClasses = classNames(['restaurant'], {'restaurant--image': this.props.imageUrl});
+
     return (
-      <div className="restaurant">
-        {this.props.name && <h1>{this.props.name}</h1>}
-        <h2>{this.props.address}</h2>
-        {this.props.phone && <h2>Phone</h2>}
-        {this.props.phone && <p>{this.props.phone}</p>}
-        <ul>
+      <div className={componentClasses}>
+        <div>
+          {this.props.imageUrl && <img src={this.props.imageUrl} />}        
+        </div>
+        <div>
+          {this.props.name && <h1>{this.props.name}</h1>}
+          <span className="light subheading">{this.props.address}</span>
           {attributes}
-        </ul>
+          {this.props.cuisines && <h2>Cuisines</h2>}
+          {this.props.cuisines && <p>{this.props.cuisines}</p>}
+          {this.props.phone && <h2>Phone</h2>}
+          {this.props.phone && <p>{this.props.phone}</p>}
+          {this.props.hours && <h2>Opening Hours</h2>}
+          {this.props.hours && <p>{this.props.hours}</p>}
+        </div>
       </div>
     );
   }
