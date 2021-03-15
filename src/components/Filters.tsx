@@ -1,3 +1,4 @@
+import classNames from 'classnames';
 import React from 'react';
 import {Category, Cuisine} from '../App';
 import Checkbox from './Checkbox';
@@ -12,19 +13,28 @@ interface FiltersProps {
 interface FiltersState {
   activeCategory: number;
   activeCuisine: number;
+  expanded: boolean;
 }
 
 export default class Filters extends React.Component<FiltersProps, FiltersState> {
 
   state = {
     activeCategory: -1,
-    activeCuisine: -1
+    activeCuisine: -1,
+    expanded: false
   }
 
   constructor(props: FiltersProps) {
     super(props);
     this.handleCategoryToggle = this.handleCategoryToggle.bind(this);
     this.handleCuisineToggle = this.handleCuisineToggle.bind(this);
+    this.handleFiltersActivate = this.handleFiltersActivate.bind(this);
+  }
+
+  handleFiltersActivate(): void {
+    this.setState({
+      expanded: !this.state.expanded
+    });
   }
 
   handleCategoryToggle(label: string): void {
@@ -67,8 +77,13 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
       cuisines.push(<Checkbox value={isSelected} onToggle={this.handleCuisineToggle} id={cuisine.cuisine.cuisine_name} label={cuisine.cuisine.cuisine_name}></Checkbox>);
     }
 
+    const componentClasses = classNames(
+      ['filters'],
+      { 'filters--active': this.state.expanded }
+    );
+
     return (
-      <div className="filters">
+      <div className={componentClasses}>
         <div className="filters__section">
           <h1>Categories</h1>
           <div className="filters__options">
@@ -81,6 +96,7 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
             {cuisines}
           </div>
         </div>
+        <p onClick={this.handleFiltersActivate} className="filters__button">Filters</p>
       </div>
     );
   }

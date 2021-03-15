@@ -217,6 +217,7 @@ export default class App extends React.Component<unknown, AppState> {
           reservation={this.state.activeRestaurant?.restaurant?.is_table_reservation_supported}
           imageUrl={this.state.activeRestaurant?.restaurant?.featured_image}
         />
+        <div className="menu-bar"></div>
       </div>
     );
   }
