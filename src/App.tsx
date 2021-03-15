@@ -197,10 +197,6 @@ export default class App extends React.Component<unknown, AppState> {
     });
   }
 
-  handleRestaurantFocus(): void {
-    console.log('hi');
-  }
-
   render(): JSX.Element {
 
     const { categories, cuisines, restaurants } = this.state;
@@ -234,7 +230,6 @@ export default class App extends React.Component<unknown, AppState> {
           delivery={this.state.activeRestaurant?.restaurant?.is_delivering_now}
           reservation={this.state.activeRestaurant?.restaurant?.is_table_reservation_supported}
           imageUrl={this.state.activeRestaurant?.restaurant?.featured_image}
-          onClick={this.handleRestaurantFocus}
         />
         <div className="menu-bar"></div>
       </div>
