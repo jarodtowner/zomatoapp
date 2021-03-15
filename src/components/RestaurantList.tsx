@@ -10,6 +10,7 @@ interface RestaurantListProps {
   isMore?: boolean;
   isPrev?: boolean;
   onPrev?: () => void;
+  isActive: boolean;
 }
 
 interface RestaurantListState {
@@ -105,8 +106,15 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
       );
     });
 
+    const componentClass = className(
+      ['restaurant-list'],
+      { 'restaurant-list--active': this.props.isActive }
+    );
+
+    console.log(this.props.isActive);
+
     return (
-      <div className="restaurant-list">
+      <div className={componentClass}>
         {this.props.isPrev && <p
           tabIndex={0}
           className="nav-button"

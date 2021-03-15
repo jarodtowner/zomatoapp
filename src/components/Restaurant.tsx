@@ -11,6 +11,7 @@ interface RestaurantProps {
   delivery?: number;
   reservation?: number;
   imageUrl?: string;
+  onClick?: () => void;
 }
 
 class Restaurant extends React.Component<RestaurantProps> {
@@ -46,11 +47,11 @@ class Restaurant extends React.Component<RestaurantProps> {
     const componentClasses = classNames(['restaurant'], {'restaurant--image': this.props.imageUrl});
 
     return (
-      <div className={componentClasses}>
-        <div>
+      <div onClick={this.props.onClick} className={componentClasses}>
+        <div onClick={this.props.onClick}>
           {this.props.imageUrl && <img src={this.props.imageUrl} />}        
         </div>
-        <div>
+        <div onClick={this.props.onClick}>
           {this.props.name && <h1>{this.props.name}</h1>}
           <span className="light subheading">{this.props.address}</span>
           {attributes}

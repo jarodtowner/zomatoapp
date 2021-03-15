@@ -19,3 +19,44 @@
   text-transform: uppercase;
 }
 
+.filters__menu-button {
+  position: absolute;
+  width: 30px;
+  height: 3px;
+  transition: opacity 300ms ease-in-out;
+  background-color: black;
+  left: 20px;
+  cursor: pointer;
+}
+
+.filters__menu-button::before {
+  content: '';
+  width: 30px;
+  height: 3px;
+  transition: opacity 300ms ease-in-out;
+  position: relative;
+  top: -7px;
+  background-color: black;
+  display: block;
+}
+
+.filters__menu-button::after {
+  content: '';
+  width: 30px;
+  height: 3px;
+  transition: opacity 300ms ease-in-out;
+  position: relative;
+  top: 4px;
+  background-color: black;
+  display: block;
+}
+
+.filters--active .filters__menu-button {
+  opacity: 0;
+}
+
+.filters__menu-button:hover {
+  text-decoration: underline;
+}
+
+

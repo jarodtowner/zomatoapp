@@ -8,6 +8,7 @@ interface FiltersProps {
   categories: Category[];
   cuisines: Cuisine[]
   onChange?: (category?: number, cuisine?: number) => void;
+  onMenuActivate: () => void;
 }
 
 interface FiltersState {
@@ -29,6 +30,7 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
     this.handleCategoryToggle = this.handleCategoryToggle.bind(this);
     this.handleCuisineToggle = this.handleCuisineToggle.bind(this);
     this.handleFiltersActivate = this.handleFiltersActivate.bind(this);
+    this.handleMenuClick = this.handleMenuClick.bind(this);
   }
 
   handleFiltersActivate(): void {
@@ -47,6 +49,11 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
         this.props.onChange(category, undefined);
       }
     });
+  }
+  handleMenuClick(): void {
+    if (this.props.onMenuActivate) {
+      this.props.onMenuActivate();
+    }
   }
 
   handleCuisineToggle(label: string): void {
@@ -96,7 +103,12 @@ export default class Filters extends React.Component<FiltersProps, FiltersState>
             {cuisines}
           </div>
         </div>
-        <p onClick={this.handleFiltersActivate} className="filters__button">Filters</p>
+        <p  className="filters__button">
+          <div onClick={this.handleMenuClick} className="filters__menu-button"></div>
+          <span onClick={this.handleFiltersActivate}>
+          Filters
+          </span>
+        </p>
       </div>
     );
   }

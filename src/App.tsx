@@ -90,6 +90,7 @@ interface AppState {
   selectedCategory?: number;
   page: number;
   isMoreRestaurants: boolean;
+  isMenuActive: boolean;
 }
 
 export interface Cuisine {
@@ -110,7 +111,8 @@ export default class App extends React.Component<unknown, AppState> {
     activeRestaurant: {},
     page: 0,
     selectedCategory: 2,
-    isMoreRestaurants: true
+    isMoreRestaurants: true,
+    isMenuActive: false
   }
 
   api: API;
@@ -123,6 +125,8 @@ export default class App extends React.Component<unknown, AppState> {
     this.getRestaurantData = this.getRestaurantData.bind(this);
     this.handleMore = this.handleMore.bind(this);
     this.handlePrevious = this.handlePrevious.bind(this);
+    this.handleMenuToggle = this.handleMenuToggle.bind(this);
+
     this.api.get('https://developers.zomato.com/api/v2.1/categories')
       .then(res => {
         this.setState({
@@ -155,6 +159,7 @@ export default class App extends React.Component<unknown, AppState> {
     this.setState({
       activeRestaurant: this.state.restaurants[index]
     }, () => console.log(this.state.activeRestaurant));
+    this.handleMenuToggle(false);
   }
 
   handleMore(): boolean {
@@ -184,6 +189,18 @@ export default class App extends React.Component<unknown, AppState> {
     });
   }
 
+  handleMenuToggle(value?: boolean): void {
+    const val: boolean = value === undefined ? !this.state.isMenuActive : value;
+
+    this.setState({
+      isMenuActive: val
+    });
+  }
+
+  handleRestaurantFocus(): void {
+    console.log('hi');
+  }
+
   render(): JSX.Element {
 
     const { categories, cuisines, restaurants } = this.state;
@@ -197,7 +214,7 @@ export default class App extends React.Component<unknown, AppState> {
 
     return (
       <div className="App">
-        <Filters onChange={this.handleFilterChange} categories={categories} cuisines={cuisines}></Filters>
+        <Filters onMenuActivate={this.handleMenuToggle} onChange={this.handleFilterChange} categories={categories} cuisines={cuisines}></Filters>
         <RestaurantList
           onMore={this.handleMore}
           page={this.state.page}
@@ -206,6 +223,7 @@ export default class App extends React.Component<unknown, AppState> {
           onPrev={this.handlePrevious}
           onSelect={this.handleRestaurantSelect}
           restaurants={restaurantNames}
+          isActive={this.state.isMenuActive}
         ></RestaurantList>
         <Restaurant
           name={this.state.activeRestaurant?.restaurant?.name}
@@ -216,6 +234,7 @@ export default class App extends React.Component<unknown, AppState> {
           delivery={this.state.activeRestaurant?.restaurant?.is_delivering_now}
           reservation={this.state.activeRestaurant?.restaurant?.is_table_reservation_supported}
           imageUrl={this.state.activeRestaurant?.restaurant?.featured_image}
+          onClick={this.handleRestaurantFocus}
         />
         <div className="menu-bar"></div>
       </div>
