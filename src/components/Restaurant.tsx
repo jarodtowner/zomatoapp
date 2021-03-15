@@ -32,13 +32,15 @@ class Restaurant extends React.Component<RestaurantProps> {
 
     const attributes: JSX.Element[] = [];
     if (this.props.delivery !== undefined) {
-      const marker = this.props.delivery ? '+' : '-';
-      attributes.push(<div key="delivery">{marker} Delivery</div>);
+      const marker = this.props.delivery ? '✓' : '✗';
+      const markerClass = this.props.delivery ? 'marker marker--yes' : 'marker marker--no';
+      attributes.push(<div key="delivery"><span className={markerClass}>{marker}</span> Delivery</div>);
     }      
 
     if (this.props.reservation !== undefined) {
-      const marker = this.props.reservation ? '+' : '-';
-      attributes.push(<div key="reservation">{marker} Reservations</div>);
+      const marker = this.props.reservation ? '✓' : '✗';
+      const markerClass = this.props.delivery ? 'marker marker--yes' : 'marker marker--no';
+      attributes.push(<div key="reservation"><span className={markerClass}>{marker}</span> Reservations</div>);
     }
 
     const componentClasses = classNames(['restaurant'], {'restaurant--image': this.props.imageUrl});

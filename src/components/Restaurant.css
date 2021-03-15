@@ -8,6 +8,18 @@
   gap: 50px;
 }
 
+.marker { 
+  font-size: 15pt;
+} 
+
+.marker--no {
+  color: #DD0000;
+}
+
+.marker--yes {
+  color: lime;
+}
+
 @media screen and (min-width: 1000px) {
   .restaurant--image {
     grid-template-columns: 1fr 1fr;
