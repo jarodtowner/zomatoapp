@@ -9,6 +9,11 @@
   padding-left: 40px;
   align-items: center;
   cursor: pointer;
+  transition: background-color 200ms ease-in-out;
+}
+
+.restaurant-list__item:hover:not(.restaurant-list__item--selected) {
+  background-color: #00000011;
 }
 
 .restaurant-list__item--selected {

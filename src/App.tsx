@@ -200,6 +200,7 @@ export default class App extends React.Component<unknown, AppState> {
         <Filters onChange={this.handleFilterChange} categories={categories} cuisines={cuisines}></Filters>
         <RestaurantList
           onMore={this.handleMore}
+          page={this.state.page}
           isMore={this.state.isMoreRestaurants}
           isPrev={this.state.page > 0}
           onPrev={this.handlePrevious}

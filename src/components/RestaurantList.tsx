@@ -4,6 +4,7 @@ import './RestaurantList.css';
 
 interface RestaurantListProps {
   restaurants: { name: string; }[]
+  page: number;
   onSelect?: (index: number) => void;
   onMore?: () => void;
   isMore?: boolean;
@@ -13,6 +14,7 @@ interface RestaurantListProps {
 
 interface RestaurantListState {
   selected: number;
+  selectedPage: number;
 }
 
 export default class RestaurantList extends React.Component<RestaurantListProps, RestaurantListState> {
@@ -25,31 +27,29 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
 
     this.state = {
       selected: -1,
+      selectedPage: -1
     };
   }
 
   handleSelect(event: React.MouseEvent<HTMLDivElement>): void {
     /* eslint-disable-next-line @typescript-eslint/no-explicit-any */ 
     const index: number = (event.target as any).getAttribute('data-key');
-    this.setState({ selected: Number(index) });
+    this.setState({
+      selected: Number(index),
+      selectedPage: this.props.page
+    });
     if (this.props.onSelect) {
       this.props.onSelect(index);
     }
   }
 
   handleShowMore(): void {
-    this.setState({
-      selected: -1
-    });
     if (this.props.onMore) {
       this.props.onMore();
     }
   }
 
   handleShowPrevious(): void {
-    this.setState({
-      selected: -1
-    });
     if (this.props.onPrev) {
       this.props.onPrev();
     }
@@ -60,7 +60,7 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     this.props.restaurants.forEach((restaurant, index) => {
       const elementClass = className(
         ['restaurant-list__item'],
-        {'restaurant-list__item--selected': this.state.selected === index}
+        {'restaurant-list__item--selected': this.state.selected === index && this.state.selectedPage === this.props.page}
       );
       listItems.push(
         <div
