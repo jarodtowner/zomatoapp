@@ -20,3 +20,12 @@
   color: white;
   background: var(--accent);
 }
+
+.nav-button {
+  cursor: pointer;
+  text-align: center;
+}
+
+.nav-button:hover {
+  text-decoration: underline;
+}

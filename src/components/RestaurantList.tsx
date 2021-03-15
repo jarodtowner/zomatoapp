@@ -24,6 +24,10 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     this.handleSelect = this.handleSelect.bind(this);
     this.handleShowMore = this.handleShowMore.bind(this);
     this.handleShowPrevious = this.handleShowPrevious.bind(this);
+    this.selectRestaurant = this.selectRestaurant.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
+    this.handlePreviousKeyDown = this.handlePreviousKeyDown.bind(this);
+    this.handleMoreKeyDown = this.handleMoreKeyDown.bind(this);
 
     this.state = {
       selected: -1,
@@ -34,8 +38,20 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
   handleSelect(event: React.MouseEvent<HTMLDivElement>): void {
     /* eslint-disable-next-line @typescript-eslint/no-explicit-any */ 
     const index: number = (event.target as any).getAttribute('data-key');
+    this.selectRestaurant(Number(index));
+  }
+
+  handleKeyDown(event: React.KeyboardEvent<HTMLDivElement>): void {
+    if (event.key === 'Enter') {
+      /* eslint-disable-next-line @typescript-eslint/no-explicit-any */ 
+      const index: number = (event.target as any).getAttribute('data-key');
+      this.selectRestaurant(Number(index));
+    }
+  }
+
+  selectRestaurant(index: number): void {
     this.setState({
-      selected: Number(index),
+      selected: index,
       selectedPage: this.props.page
     });
     if (this.props.onSelect) {
@@ -55,6 +71,19 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
     }
   }
 
+  handlePreviousKeyDown({key}: { key: string }): void {
+    if (key === 'Enter') {
+      this.handleShowPrevious();
+    }
+  }
+
+  handleMoreKeyDown({key}: { key: string }): void {
+    if (key === 'Enter') {
+      this.handleShowMore();
+    }
+  }
+
+
   render(): JSX.Element {
     const listItems: JSX.Element[] = [];
     this.props.restaurants.forEach((restaurant, index) => {
@@ -64,6 +93,8 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
       );
       listItems.push(
         <div
+          onKeyDown={this.handleKeyDown}
+          tabIndex={0}
           onClick={this.handleSelect}
           key={index}
           data-key={index}
@@ -76,9 +107,19 @@ export default class RestaurantList extends React.Component<RestaurantListProps,
 
     return (
       <div className="restaurant-list">
-        {this.props.isPrev && <p onClick={this.handleShowPrevious}>Show Previous</p>}
+        {this.props.isPrev && <p
+          tabIndex={0}
+          className="nav-button"
+          onKeyDown={this.handlePreviousKeyDown}
+          onClick={this.handleShowPrevious}
+        >See Previous</p>}
         {listItems}
-        {this.props.isMore && <p onClick={this.handleShowMore}>Show More</p>}
+        {this.props.isMore && <p
+          tabIndex={0}
+          className="nav-button"
+          onKeyDown={this.handleMoreKeyDown}
+          onClick={this.handleShowMore}
+        >See More</p>}
       </div>
     );
   }
